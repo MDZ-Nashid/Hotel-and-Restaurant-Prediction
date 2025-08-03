@@ -1,0 +1,1002 @@
+min_cost_per_person,max_cost_per_person,time_stayed_in_days,travel_place,traveled_from,travel_month,hotel_name,did_you_like_the_hotel,recommended_restaurant,did_you_like_the_restaurant
+1500,2200,1.0,panam city sonargaon,dhaka,december,Grand Hill,no,pan pacific sonargaon dhaka,yes
+2200,3000,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,sinbad restaurant,yes
+1500,2000,1.0,mahasthangarh,sirajganj,december,Palace Hill,yes,Spice Restaurant,yes
+4700,6200,2.5,coxs bazar, dhaka ,october,ocean paradise hotel,no,poushee hotel & restaurant,yes
+2500,6400,2.5,sajek valley,jashore ,february,Palace Hill,yes,Spice Kabab House,yes
+4300,5300,7.5,saint martins island,sirajganj ,november,hotel prince heaven,no,flying fish & food restaurant,yes
+7000,9000,4.0,rangamati,cox's bazar,may,rangamati hill view resort,no,gang sabarang,no
+3000,5700,1.5,coxs bazar,narsingdi ,september,sea view hotel,no,the seven seas restaurant,no
+2400,3800,1.5,sitakunda eco park,thakurgaon,september,Hotel Hotel,yes,chui jhal beef restaurant,no
+1500,7200,5.5,lawachara national park,barishal ,december,grand sultan tea resort & golf,yes,Palace Diner,no
+3800,6100,2.0,tanguar haor,brahmanbaria ,august, haor bilash cottage,yes,rose garden restaurant,no
+7500,8900,9.0,lawachara national park,noakhali ,november,grand sultan tea resort & golf,no,kutum bari restaurant,no
+1500,2800,1.0,paharpur buddhist vihara,"jatrabari,dhaka",february,hotel touch & go,yes,midas restaurant,yes
+6100,6700,2.5,coxs bazar,chittagong ,october,coxs bazar inn,yes,bay marine beach resort restaurant,yes
+2200,4100,1.0,ratargul swamp forest, barishal,november,Green Inn,yes,Paradise Food Court,yes
+2400,7300,4.5,coxs bazar,"jatrabari,dhaka",december,ratargul swamp forest,yes,handi,yes
+1500,3100,1.0,mahasthangarh, gazipur ,march,momo inn,yes,Traditional Hotel and Restaurant,yes
+3700,5300,5.0,jaflong,chittagong ,december,jaflong eco resort,yes,pach bhai restaurant,yes
+1500,2200,1.0,mahasthangarh,sirajganj,january,Grand Resort,yes,Taste Kabab House,yes
+6400,8000,10.0,lawachara national park,noakhali ,december,Hill View,no,asian eco cafe & restaurant,no
+3000,5000,5.5,coxs bazar,sylhet ,december,hotel esha international,no,sea view restaurant,yes
+1500,8100,4.0,jaflong,dinajpur ,july,Golden Palace,yes,jaflong view restaurant,yes
+4200,4800,9.5,saint martins island, dhaka,january,Palace Hill,yes,flying fish & food restaurant,no
+2200,5300,3.0,rangamati,dhaka,september,Hill Lodge,yes,cafe mangal,no
+4500,6200,2.0,bandarban,jashore,january,Resort Hill,yes,Taste Restaurant,yes
+3400,6000,1.0,kuakata,panchagarh ,september,hotel sea paradise,no,Palace Diner,no
+5100,7500,3.5,sajek valley,bike ,may,sajek tourist complex,yes,sajek kutumbari restaurant,no
+5700,6300,3.0,coxs bazar,dhala,october,marma resort,no,bay marine beach resort restaurant,no
+4000,4600,1.0,coxs bazar,cox's bazar,april,green house resort,yes,kasturi restaurant,yes
+4000,5000,2.0,jaflong,dinajpur ,june,Sea View,no,pach bhai restaurant,yes
+6400,7500,1.0,coxs bazar,comilla ,october,beach hotel,no,palongki inani,no
+3800,5800,1.5,rangamati, teknaf,september,cloudy lake resort,no,cafe mangal,yes
+4600,5800,2.0,tanguar haor,jashore,august,Palace Palace,yes,Traditional Diner,no
+5200,5800,2.0,bichanakandi,kishoreganj ,september,Golden Inn,yes,Palace Food Court,no
+4000,5300,2.5,jaflong,"jatrabari,dhaka",august,hotel noorjahan grand,yes,Golden Food Court,no
+2800,5200,1.0,bandarban,dhaka ,october, hillside resort,yes,hill's dine,yes
+4200,5000,2.5,jaflong,cumilla,december, jaflong inn,no,pach_bhai restaurant,yes
+4600,6500,9.0,lawachara national park,dhaka ,november,Hill View,no,Spice Kabab House,no
+4900,7000,2.0,tanguar haor,sylhet,august,Hill Hill,yes,Paradise Food Court,no
+4400,4900,3.0,rangamati,faridpur ,april,cloudy lake resort,no,Family Cafe,no
+2700,4500,2.0,sitakunda eco park,home,september," the peninsula chittagong, hotel agrabad",yes,rajbari restaurant,no
+2600,4000,1.5,sitakunda eco park,chittagong ,august,Hotel Hotel,yes,chui jhal beef restaurant,no
+5200,6900,2.0,tanguar haor,brahmanbaria ,june,Hill Hill,yes,Paradise Food Court,no
+3300,6400,1.5,kuakata,kishoreganj ,may,hotel aman international,no,sea palace restaurant,yes
+3800,5500,2.0,tanguar haor,barisal,june, houseboats,yes,Traditional Diner,no
+6000,6600,8.5,bandarban,kushtia,december,chimbuk hill resort,yes,green prairie restaurant,yes
+1500,3100,1.0,paharpur buddhist vihara,home,february,Hotel View,no,Spice Hotel and Restaurant,yes
+4200,5600,4.0,sajek valley,chittagong ,march,ruilui resort,yes,maruti didi restaurant,yes
+1500,3500,5.0,jaflong,dinajpur ,may,hotel noorjahan grand,no,sinbad restaurant,no
+2300,3800,3.5,kuakata,tangail,april,hotel graver inn international,no,Palace Kabab House,yes
+1500,3400,1.0,panam city sonargaon,dhaka,july,Royal Resort,no,Palace Hotel and Restaurant,yes
+2800,4300,10.0,saint martins island,barisal,january,Palace Hill,yes,Traditional Cafe,yes
+5100,6200,6.0,saint martins island,jashore,december,coral view resort,yes,hasan restaurant,yes
+3300,6800,2.5,rangamati,rajshahi ,february,Palace Resort,yes,cafe mangal,yes
+1500,2300,1.0,paharpur buddhist vihara,"jatrabari,dhaka",february,hotel touch & go,no,Palace Cafe,yes
+1700,4000,1.5,sitakunda eco park,chittagong ,september," the peninsula chittagong, hotel agrabad",yes,Family Restaurant,no
+2200,3800,2.0,sitakunda eco park,chittagong ,february,Golden Lodge,yes,Family Restaurant,no
+2400,5300,3.0,kuakata, gazipur ,december,kuakata grand hotel & sea resort,no,sea palace restaurant,no
+4100,4900,1.0,bandarban, gazipur ,may,hill resort,yes,kalapata restaurant,no
+4000,5100,1.0,bandarban,dhaka,february,nilgiri resort,yes,kalapata restaurant,yes
+2200,5500,5.0,rangamati,rajshahi ,december,Hotel Lodge,yes,peda ting ting restaurant,yes
+1500,2300,1.0,panam city sonargaon,kishoreganj ,october,Grand Hill,no,sonargaon restaurant,no
+2200,4400,3.0,jaflong,sylhet ,november,hotel noorjahan grand (sylhet),no,pach_bhai restaurant,yes
+1500,3000,10.0,lawachara national park,dhaka ,november,Beach Palace,yes,asian eco cafe & restaurant,yes
+2200,3900,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,sinbad restaurant,yes
+2200,3900,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,Paradise Food Court,yes
+1500,3400,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,casuarina,yes
+1500,2300,1.0,panam city sonargaon,dhaka,july,Grand Hill,yes,Taste Cafe,no
+3800,4600,4.0,rangamati,dhaka ,may,rangamati hill view resort,yes,chang pang restaurant,no
+4300,6100,3.0,rangamati,laxmipur,december,hotel green castle,no,Family Cafe,no
+2200,4000,1.0,ratargul swamp forest,cumilla ,november,Green Inn,yes,Sea Food Court,yes
+5200,7000,1.0,saint martins island,kushtia,october,dream night resort,yes,Traditional Cafe,yes
+1500,3500,1.0,mahasthangarh,sirajganj,january,Grand Resort,yes,casuarina,yes
+4800,6400,5.5,coxs bazar,dhaka ,august,coxs bazar inn,no,bay marine beach resort restaurant,yes
+1500,3300,2.0,sitakunda eco park,chittagong ,august," the peninsula chittagong, hotel agrabad",yes,Family Restaurant,no
+4100,5700,2.0,bandarban,chittagong ,may, hillside resort,yes,Royal Restaurant,no
+4500,5900,1.5,bichanakandi,cox's bazar,march,Grand Hill,yes,saffron restaurant,no
+4600,6500,2.5,rangamati,laxmipur,february,Beach International,yes,Family Cafe,no
+1500,3200,1.0,paharpur buddhist vihara,dhaka,june,hotel touch & go,yes,Spice Hotel and Restaurant,no
+1500,2000,1.0,paharpur buddhist vihara,joypurhat ,february,hotel naz garden (bogura),yes,midas restaurant,no
+1500,3200,1.0,panam city sonargaon,gazipur ,july,Hill Garden,no,Paradise Diner,no
+3800,4800,5.0,jaflong,panchagarh ,february,hotel noorjahan grand,yes,Golden Food Court,yes
+2200,3300,1.0,ratargul swamp forest,campus ,november,Royal View,yes,sinbad restaurant,yes
+3800,6800,2.0,tanguar haor,cumilla,august,Palace Palace,yes,kichukkhon,no
+4700,5900,2.0,kuakata,dhaka ,february,hotel sea paradise,no,hotel nibedita & restaurant,no
+2200,5700,3.5,rangamati,"rajbari,dhaka",april,cloudy lake resort,no,chang pang restaurant,no
+4100,5400,2.5,bichanakandi,pabna,february,Golden Inn,no,Palace Diner,yes
+5200,6000,2.0,tanguar haor,narayanganj ,august,Palace Palace,yes,Taste Hotel and Restaurant,no
+2200,3000,1.0,ratargul swamp forest,sylhet,november,Resort Hill,yes,Paradise Food Court,yes
+2200,3000,1.0,ratargul swamp forest,barisal,november,Royal View,yes,Sea Food Court,yes
+2200,4100,1.5,rangamati,rajshahi ,may,rangamati hill view resort,no,chang pang restaurant,yes
+4200,5700,3.0,coxs bazar,savar ,february,deshpriya resort,yes,palongki inani,yes
+4900,9600,3.5,sajek valley,savar,march,sajek tourist complex,yes,Royal Restaurant,yes
+7200,7800,5.5,saint martins island,barishal,august,coral view resort,no,flying fish & food restaurant,no
+5400,7200,3.0,sajek valley,savar,august, ruilui resort,no,fudanki restaurant,yes
+6800,8200,3.0,sajek valley,chittagong ,february,meghpunji resort,yes,eni lushai cottage & restaurant,yes
+1500,2900,1.0,panam city sonargaon,"jatrabari,dhaka",august,sonargaon hotel & resort,no,Palace Hotel and Restaurant,yes
+6500,7100,5.0,sajek valley,barishal ,march,Palace Hill,no,Spice Kabab House,no
+4100,6400,2.0,tanguar haor,brahmanbaria ,june, houseboats,yes,Taste Hotel and Restaurant,no
+6200,8100,8.0,lawachara national park,dhaka ,may,grand sultan tea resort & golf,no,Palace Diner,no
+2400,3800,5.0,bandarban,kishoreganj ,january,chimbuk hill resort,yes,tajingdong restora,no
+4300,10000,1.5,rangamati,gazipur ,july,rangamati hill view resort,no,peda ting ting restaurant,yes
+5200,5900,2.0,tanguar haor,cumilla,june, haor bilash cottage,yes,Paradise Food Court,no
+1500,3300,1.0,mahasthangarh,cumilla ,january,Grand Resort,yes,Taste Kabab House,yes
+1500,3000,1.0,paharpur buddhist vihara,joypurhat ,january,hotel naz garden (bogura),yes,Spice Hotel and Restaurant,yes
+6200,7400,10.0,lawachara national park,dhaka ,november,Beach Palace,yes,Spice Kabab House,yes
+2200,10000,1.5,bichanakandi,gazipur ,november,bichanakandi resort,yes,Palace Diner,no
+1500,5500,4.0,kuakata,joypurhat ,june,hotel sea orchid,no,Palace Kabab House,no
+2000,7700,1.0,saint martins island,faridpur ,december,hotel prince heaven,yes,Traditional Cafe,no
+1800,4600,2.0,jaflong,dhaka,january, jaflong green resort,yes,Family Cafe,yes
+2900,3800,1.5,sitakunda eco park,chittagong ,august, radisson blu chattogram bay view,yes,chui jhal beef restaurant,no
+5700,8600,6.5,lawachara national park,dhaka ,february,grand sultan tea resort & golf,yes,kutum bari restaurant,yes
+1500,5500,1.0,coxs bazar,savar,september,beach hotel,yes,kashbon restaurant,yes
+7500,9400,3.0,bichanakandi,dinajpur ,may,Golden Inn,yes,Traditional Food Court,no
+7200,7800,1.0,bichanakandi,dhaka,november,bichanakandi resort,no,Traditional Food Court,no
+1500,6200,7.5,bandarban,chittagong,june,Grand Resort,no,tohzah restaurant,yes
+1500,2700,1.0,mahasthangarh,brahmanbaria ,december,Grand Resort,yes,Traditional Hotel and Restaurant,yes
+1500,2300,1.0,mahasthangarh,sirajganj,january,momo inn,yes,casuarina,yes
+2800,5700,2.0,bichanakandi,savar,january,bichanakandi resort,no,saffron restaurant,no
+2000,5900,1.5,bandarban,chittagong,june, nilgiri resort,yes,tohzah restaurant,yes
+5400,6900,2.5,bichanakandi,kishoreganj ,january,Grand Hill,no,saffron restaurant,yes
+4800,6400,5.0,saint martins island,narsingdi ,july, hotel blue pearl,yes,Paradise Diner,no
+3500,4800,1.0,bandarban,brahmanbaria ,february, hillside resort,yes,kalapata restaurant,yes
+1700,2800,1.0,sitakunda eco park,dhaka,august,Hotel Hotel,yes,zafran restaurant,no
+2300,7100,2.0,jaflong,dhaka,march,Sea View,yes,sinbad restaurant,yes
+4500,8000,1.5,bichanakandi,dhaka,january,Grand Hill,yes,Paradise Restaurant,yes
+1500,3200,1.0,mahasthangarh,faridpur ,january,Grand Resort,yes,Spice Restaurant,yes
+2300,2800,2.0,sitakunda eco park,narsingdi ,august,Hotel Hotel,yes,zafran restaurant,no
+4000,6500,3.5,bandarban,chottogram,february,chimbuk hill resort,no,chimbuk hill restaurant,no
+1500,2400,1.0,panam city sonargaon,barishal,july, (nearby in narayanganj/dhaka) pan pacific sonargaon,no,Taste Kabab House,no
+4300,6200,4.0,saint martins island,sirajganj ,june,nil digonte resort,no,narikel jinjira restaurant,no
+6100,10000,1.0,saint martins island,barisal,april,dream night resort,yes,Traditional Cafe,no
+2700,4700,2.0,rangamati,gazipur,december,Beach International,no,gang sabarang,no
+3700,4900,2.5,rangamati,jashore,may,Hill Lodge,no,peda ting ting restaurant,no
+3000,4800,8.5,lawachara national park,dhaka ,november,lawachara resort,no,Palace Diner,no
+1500,3100,1.0,mahasthangarh,narayanganj ,june,momo inn,yes,casuarina,yes
+1500,3000,1.0,mahasthangarh,khulna ,january,Grand Resort,yes,Traditional Hotel and Restaurant,yes
+2700,4000,4.5,jaflong,sylhet,july,Sea View,yes,pach bhai restaurant,yes
+1500,3500,1.0,panam city sonargaon,dhaka ,october,sonargaon hotel & resort,no,Taste Kabab House,yes
+1500,3400,1.0,mahasthangarh,cumilla,january,momo inn,yes,Traditional Hotel and Restaurant,yes
+1500,2700,1.0,paharpur buddhist vihara,joypurhat ,april,hotel naz garden (bogura),yes,hotel al-razzaque & restaurant,no
+6000,6900,3.0,rangamati,satkhira ,november,rangamati hill view resort,no,peda ting ting restaurant,yes
+6900,8000,1.0,bichanakandi,dhaka,december,Golden Inn,no,panshi restaurant,yes
+7500,9200,5.0,lawachara national park,kushtia,november,lawachara resort,no,Spice Kabab House,no
+2400,6100,3.5,kuakata,faridpur ,december,Golden View,yes,banorupa garden restaurant,yes
+4000,6300,2.0,tanguar haor,brahmanbaria ,december,Hill Hill,yes,rose garden restaurant,no
+4700,5900,1.5,coxs bazar,cumilla,october,the paradise cox's bazar,yes,Spice Restaurant,yes
+1500,2200,1.0,paharpur buddhist vihara,dhaka,february,Hotel View,no,Palace Cafe,no
+2900,5400,2.0,bichanakandi,dhaka,february,Golden Inn,yes,panshi restaurant,yes
+2100,3900,1.0,sitakunda eco park,laxmipur,may,(nearby in chattogram) radisson blu chattogram bay view,yes,rajbari restaurant,no
+3600,10000,7.0,lawachara national park,dhaka ,january,Beach Palace,no,Spice Kabab House,yes
+1500,2400,1.5,sitakunda eco park,chittagong ,september, radisson blu chattogram bay view,yes,Traditional Hotel and Restaurant,yes
+5700,7800,1.5,rangamati,dhaka ,august,cloudy lake resort,no,Taste Food Court,no
+3800,5500,2.0,tanguar haor,brahmanbaria ,march,Palace Palace,yes,Traditional Diner,no
+1500,2000,1.0,mahasthangarh,sirajganj,january,momo inn,yes,casuarina,yes
+4200,5000,2.0,tanguar haor,brahmanbaria ,june,Hill Hill,yes,kichukkhon,no
+2200,4200,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+4500,6000,10.0,bandarban,panchagarh ,january,sairu hill resort,yes,hill view restaurant,yes
+1500,5000,5.0,lawachara national park,chittagong ,november,grand sultan tea resort & golf,no,Spice Kabab House,no
+5500,6300,1.0,saint martins island,cox's bazar,september,dream night resort,no,Traditional Cafe,no
+4600,8900,2.5,sajek valley,bike ,january,sajek resort,no,chhimbal restaurant,no
+6300,8200,2.5,coxs bazar,cox's bazar ,november,green house resort,yes,poushee hotel & restaurant,yes
+2200,3800,1.0,ratargul swamp forest,cox's bazar,november,Royal View,yes,sinbad restaurant,yes
+1500,2500,1.0,panam city sonargaon,dhaka,december,Hill Garden,no,Paradise Diner,yes
+1500,2900,1.0,panam city sonargaon,dhaka,july,Grand Hill,no,Paradise Diner,yes
+3400,9000,3.5,rangamati,dhaka,september,Hotel Lodge,no,peda ting ting restaurant,yes
+2200,3000,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,Paradise Food Court,yes
+6700,8500,2.0,rangamati,laxmipur,october,Beach International,no,Family Cafe,no
+7000,8500,3.0,coxs bazar,dhaka ,november,green house resort,no,kasturi restaurant,yes
+5700,6900,2.5,sajek valley,thakurgaon,december,jumghor eco resort,yes,fudanki restaurant,yes
+3600,5000,4.5,kuakata,barishal,september,hotel sea coral,no,rajdhani hotel & restaurant,yes
+1500,2500,1.0,panam city sonargaon,satkhira ,july,Royal Resort,yes,Paradise Diner,yes
+2500,4200,5.5,bandarban,dhaka,december, hillside resort,no,chimbuk hill restaurant,yes
+5600,7400,2.0,kuakata,chittagong ,october,kuakata grand hotel & sea resort,yes,rajdhani hotel & restaurant,yes
+4000,10000,1.5,saint martins island,barishal,october, hotel blue pearl,yes,Traditional Cafe,yes
+4900,6800,3.0,kuakata,"rajbari,dhaka",february,hotel sea orchid,yes,Golden Hotel and Restaurant,yes
+4700,7100,4.5,jaflong,narayanganj ,may,Sea View,yes,sinbad restaurant,yes
+2800,3700,5.0,jaflong,sylhet,september,jaflong tourist lodge,no,panshi restaurant,yes
+7300,8700,7.0,lawachara national park,campus ,june,Hill View,no,Palace Diner,yes
+3400,4700,2.5,kuakata,tangail,november, hotel graver inn,no,rajdhani hotel & restaurant,yes
+2200,4000,1.0,ratargul swamp forest,campus ,october,Green Inn,yes,sinbad restaurant,yes
+1600,3200,1.5,sitakunda eco park,dhaka,august,Golden Lodge,yes,Traditional Hotel and Restaurant,no
+3400,5900,5.5,saint martins island,jashore,april, hotel blue pearl,yes,st. martin village restaurant,no
+1500,3400,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,Traditional Hotel and Restaurant,yes
+2800,6100,2.0,bichanakandi,kishoreganj ,september,bichanakandi resort,yes,Traditional Food Court,no
+3100,3700,4.5,bandarban,noakhali ,november,chimbuk hill resort,yes,hill's dine,yes
+1500,2400,1.0,mahasthangarh,sirajganj,may,Palace Hill,yes,Taste Kabab House,yes
+3700,5800,3.5,kuakata,savar,november, hotel graver inn,no,marine restaurant and kabab,yes
+4600,7000,3.5,rangamati, barishal,september,cloudy lake resort,yes,peda ting ting restaurant,yes
+4400,6300,2.0,tanguar haor,brahmanbaria ,june,Palace Palace,yes,kichukkhon,no
+1500,2900,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,casuarina,yes
+3500,5800,3.0,kuakata,dhaka ,june,hotel sea queen resort,yes,Palace Diner,yes
+3900,5700,3.0,bichanakandi,dhaka,february,Grand Hill,yes,panshi restaurant,yes
+3600,5200,2.0,jaflong,chottogram,october, jaflong inn,yes,pach bhai restaurant,yes
+6000,7800,11.5,saint martins island,campus ,january,coral view resort,yes,jol torongo restora,yes
+1500,3300,1.0,mahasthangarh,bandorban ,november,Palace Hill,yes,Traditional Hotel and Restaurant,yes
+2600,3400,2.0,sitakunda eco park,chittagong ,august," the peninsula chittagong, hotel agrabad",yes,rajbari restaurant,yes
+1500,2600,1.0,panam city sonargaon,dhaka ,july,Hill Garden,no,Paradise Diner,yes
+4000,4500,4.0,sajek valley,bike ,april,meghpunji resort,no,Royal Cafe,yes
+4200,6000,3.5,bandarban,cox's bazar ,december,Royal Hotel,no,Royal Restaurant,yes
+3900,5400,2.0,tanguar haor,brahmanbaria ,august, haor bilash cottage,yes,Taste Hotel and Restaurant,no
+1800,7400,4.5,bandarban,chittagong ,january,hotel green hill,yes,green prairie restaurant,yes
+2200,3000,1.0,ratargul swamp forest,brahmanbaria ,august,Green Inn,yes,Sea Food Court,yes
+1500,2300,1.0,panam city sonargaon,savar,december,Hill Resort,no,sonargaon restauran,yes
+3400,5800,3.0,rangamati,rajshahi ,december,rangamati hill view resort,no,cafe mangal,yes
+5600,6200,2.5,kuakata,comilla ,november,Golden View,no,rajdhani hotel & restaurant,yes
+7200,7800,10.0,lawachara national park,dhaka ,november,Beach Palace,no,kutum bari restaurant,yes
+1500,3500,1.0,panam city sonargaon,mymensingh ,july,Royal Resort,no,Paradise Diner,no
+5000,6100,1.0,bichanakandi,chittagong ,november,Grand Hill,no,Traditional Food Court,no
+1500,2200,1.0,mahasthangarh,sirajganj,july,Resort International,yes,Spice Restaurant,yes
+7200,8900,4.0,coxs bazar,dhala,january,hotel meridian,yes,kasturi restaurant,no
+1500,2000,1.0,paharpur buddhist vihara,dhaka,june,hotel naz garden (bogura),yes,Spice Hotel and Restaurant,yes
+3500,7000,2.5,kuakata, gazipur ,april,hotel grand safa inn,yes,rajdhani hotel & restaurant,yes
+5000,5800,3.0,bandarban,kushtia,february, hillside resort,yes,kalapata restaurant,no
+1500,2700,1.0,sitakunda eco park,dhaka,february, radisson blu chattogram bay view,yes,Traditional Hotel and Restaurant,no
+2200,3800,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,Sea Food Court,yes
+3300,7000,4.5,rangamati,gazipur ,september,hotel green castle,no,peda ting ting restaurant,yes
+4100,6600,1.0,bandarban,campus ,october,Resort Inn,no,kalapata restaurant,yes
+2900,4600,5.0,jaflong,dhaka,august,Sea View,yes,Golden Food Court,yes
+4800,5900,2.0,rangamati,narayanganj ,october, hotel green castle,yes,cafe mangal,yes
+3400,4000,3.5,jaflong,sylhet,february,jaflong tourist lodge,yes,pach bhai restaurant,yes
+1500,3100,1.0,mahasthangarh,dhaka,january,Palace Hill,yes,Taste Kabab House,yes
+3800,7000,2.0,bandarban,chittagong ,march,Resort Inn,yes,green prairie restaurant,yes
+1500,3300,1.0,paharpur buddhist vihara,joypurhat ,february,Beach Palace,no,midas restaurant,no
+4100,5900,2.0,tanguar haor,barishal,august, haor bilash cottage,yes,Paradise Food Court,no
+4600,5300,1.0,coxs bazar,narayanganj ,december,grace cox smart hotel,yes,handi,no
+1500,2000,1.0,panam city sonargaon,khulna ,december,sonargaon hotel & resort,yes,Paradise Diner,no
+4300,8100,2.5,bandarban,barishal,september,nafakhum resort,no,Taste Restaurant,yes
+1500,3100,1.0,panam city sonargaon,sirajganj,december,Hill Garden,no,sonargaon restauran,yes
+4700,5800,2.5,sajek valley,bike ,december,sajek valley resort,yes,the taste of sajek restaurant,yes
+3300,4700,3.5,sajek valley,rajshahi ,november, a-frame cottage sajek,yes,the taste of sajek restaurant,no
+1500,3300,1.0,panam city sonargaon,dhaka,july,Grand Hill,yes,pan pacific sonargaon dhaka,no
+4800,8000,8.5,saint martins island,chittagong,august,hotel blue pearl,yes,flying fish & food restaurant,yes
+5800,9300,2.5,bichanakandi,ashulia ,august,bichanakandi resort,no,Palace Diner,no
+7500,9400,6.5,lawachara national park,campus ,july,Beach Palace,yes,kutum bari restaurant,no
+7500,8800,8.5,lawachara national park,barisal,november,lawachara resort,no,asian eco cafe & restaurant,yes
+4300,6100,2.0,kuakata,faridpur,january,kuakata beach resort,no,banorupa garden restaurant,yes
+2900,6100,3.0,coxs bazar,satkhira ,november,new tower hotel,no,palongki inani,no
+2300,3100,1.0,sitakunda eco park,chittagong ,august,sitakunda eco resort,yes,zafran restaurant,no
+1500,3100,1.0,mahasthangarh,sirajganj,january,momo inn,yes,Taste Kabab House,yes
+4000,5900,2.0,tanguar haor,brahmanbaria ,august,Palace Palace,yes,Taste Hotel and Restaurant,no
+4300,9700,3.5,coxs bazar,"jatrabari,dhaka",september,zee-sha hotel,yes,narikel jinjira restaurant,no
+4600,6100,2.0,tanguar haor,kishoreganj ,august, haor bilash cottage,yes,Traditional Diner,no
+1500,2500,1.0,paharpur buddhist vihara,dhaka,june,Beach Palace,yes,Spice Hotel and Restaurant,yes
+2200,4100,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,sinbad restaurant,yes
+1500,3400,1.0,panam city sonargaon,dhaka ,july,Royal Resort,yes,sonargaon restaurant,yes
+2200,3400,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,Paradise Food Court,yes
+3300,3900,2.5,bandarban,brahmanbaria,january,hotel green hill,yes,shwe restaurant,no
+3900,7200,1.5,saint martins island,chittagong,february,saint martins island resort,yes,flying fish & food restaurant,yes
+6400,7100,3.0,rangamati,gazipur ,october,lake view resort,no,Taste Food Court,no
+6000,7800,5.0,coxs bazar,cox's bazar,june,holiday xpress,yes,sea view restaurant,no
+1500,2300,1.0,panam city sonargaon,dinajpur ,october,sonargaon hotel & resort,no,Taste Kabab House,yes
+1900,3300,1.5,sitakunda eco park,campus ,august,Hotel Hotel,yes,Traditional Hotel and Restaurant,yes
+4000,6000,5.0,kuakata,joypurhat ,june,kuakata holiday inn,no,sea palace restaurant,yes
+2300,4200,3.5,sajek valley, teknaf,october,Palace View,no,Royal Cafe,no
+1500,3500,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,Taste Kabab House,yes
+1500,3100,1.0,paharpur buddhist vihara,dhaka,february,hotel naz garden (bogura),no,Palace Cafe,yes
+2600,4200,4.0,coxs bazar,chittagong ,june,hotel esha international,no,,yes
+2200,3700,1.0,ratargul swamp forest,campus ,july,Green Inn,yes,Sea Food Court,yes
+3100,8300,6.5,saint martins island,narsingdi ,november,coral view resort,yes,narikel jinjira restaurant,no
+2200,3400,1.0,ratargul swamp forest,campus ,december,Green Inn,yes,Sea Food Court,yes
+7500,8800,3.0,bichanakandi,dhaka,september,Golden Inn,yes,Paradise Restaurant,no
+1500,2500,1.0,mahasthangarh,satkhira ,january,momo inn,yes,casuarina,yes
+2200,3200,1.0,ratargul swamp forest,sylhet,august,shah kamal hotel sylhet,yes,Sea Food Court,yes
+3100,4600,5.0,kuakata, barishal,april,sikder resort & villas,no,Golden Restaurant,yes
+4400,5600,3.0,jaflong,dinajpur ,may, jaflong inn,yes,sinbad restaurant,yes
+2200,3300,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,Paradise Food Court,yes
+4600,6300,2.0,tanguar haor,dhaka,february,Hill Hill,yes,rose garden restaurant,no
+4100,5000,2.0,tanguar haor,dhaka,august,Hill Hill,yes,Palace Diner,no
+2400,3900,2.0,kuakata,gazipur ,april,hotel grand safa inn,no,Golden Restaurant,yes
+3800,6300,1.0,saint martins island,bandorban ,july,hotel prince heaven,yes,Traditional Cafe,yes
+2400,4000,1.5,sitakunda eco park,dhaka,january, radisson blu chattogram bay view,yes,Traditional Hotel and Restaurant,no
+1500,3400,1.0,mahasthangarh,sirajganj,december,Grand Resort,yes,casuarina,yes
+3600,8300,1.0,bandarban,brahmanbaria,may,Resort Hill,yes,green prairie restaurant,no
+7300,8900,4.0,sajek valley,chittagong ,november,sajek tourist complex,no,chhimbal restaurant,yes
+3700,5200,3.5,kuakata,ashulia ,april,Golden View,yes,Palace Diner,no
+7400,8800,3.5,rangamati,pabna,october,parjatan holiday complex,yes,chang pang restaurant,no
+1500,2700,1.0,paharpur buddhist vihara,joypurhat ,january,hotel touch & go,no,hotel al-razzaque & restaurant,yes
+2200,7400,2.5,kuakata,chottogram,march,hotel aman international,no,Palace Diner,yes
+7300,8200,5.0,lawachara national park, dhaka,november,lawachara resort,yes,Palace Diner,yes
+2200,8300,1.0,rangamati,"jatrabari,dhaka",november,Hotel Lodge,no,peda ting ting restaurant,yes
+4400,8800,5.0,sajek valley,panchagarh ,march,Palace Hill,no,maruti didi restaurant,yes
+3800,7100,4.0,coxs bazar,savar,october,marma resort,no,sea view restaurant,no
+3900,6200,4.0,kuakata,dhaka,september,hotel aman international,yes,Golden Restaurant,yes
+1500,2700,1.0,panam city sonargaon,dhaka ,december,Hill Garden,no,Taste Cafe,no
+1500,2600,1.0,panam city sonargaon,cumilla ,december,Hill Garden,no,Paradise Diner,no
+3200,5000,1.0,bandarban,noakhali ,december, milonchhori eco resort,yes,shwe restaurant,yes
+5200,7100,2.0,tanguar haor,dhaka,march, haor bilash cottage,yes,Traditional Diner,no
+4000,5700,2.5,rangamati,laxmipur,january,parjatan holiday complex,no,Family Cafe,no
+3400,6400,4.0,sajek valley,brahmanbaria ,august,jumghor eco resort,yes,eni lushai cottage & restaurant,yes
+3300,4200,2.0,bichanakandi,cox's bazar ,january,bichanakandi resort,yes,Palace Food Court,yes
+5200,7200,2.0,tanguar haor,barishal,june,Hill Hill,yes,Traditional Diner,no
+1500,3100,1.0,mahasthangarh,gazipur,january,momo inn,yes,casuarina,yes
+1500,2700,1.0,paharpur buddhist vihara,thakurgaon,february,hotel naz garden (bogura),no,hotel al-razzaque & restaurant,yes
+2200,5400,2.5,rangamati,brahmanbaria ,february, hotel green castle,yes,gang sabarang,yes
+1500,2400,1.0,mahasthangarh,pabna,january,Palace Hill,yes,Spice Restaurant,yes
+5100,6200,2.0,tanguar haor,brahmanbaria ,april, houseboats,yes,Taste Hotel and Restaurant,no
+5000,6100,4.0,bandarban, gazipur ,january,Resort Hill,yes,hill's dine,no
+7300,8900,2.0,bichanakandi,dhaka ,november,Grand Hill,no,Palace Food Court,no
+1500,3200,1.0,panam city sonargaon, dhaka ,september,Hill Resort,no,pan pacific sonargaon dhaka,yes
+6800,8200,3.5,jaflong,sylhet,december,Sea View,no,Family Cafe,yes
+6000,7400,1.0,bichanakandi,kishoreganj ,january,Golden Inn,no,Palace Diner,no
+3200,7800,8.0,saint martins island, chattogram ,october,Royal Hill,no,narikel jinjira restaurant,no
+3500,5500,1.0,saint martins island, dhaka,april,dream night resort,yes,Paradise Diner,no
+3200,5600,5.0,bandarban,chittagong,march, nilgiri resort,no,kalapata restaurant,yes
+1500,2200,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,Traditional Hotel and Restaurant,yes
+4200,5200,2.0,tanguar haor,brahmanbaria ,september, houseboats,yes,Palace Diner,no
+4500,5600,4.5,bandarban,chittagong ,august,chimbuk hill resort,no,Taste Restaurant,yes
+7500,9000,1.5,bichanakandi,dhaka,september,bichanakandi resort,yes,Palace Food Court,yes
+6400,8300,2.5,rangamati,gazipur ,september,hotel green castle,no,Taste Food Court,yes
+1500,5500,3.5,kuakata,tangail,october,hotel sea orchid,yes,Palace Kabab House,yes
+4500,8200,2.5,sajek valley,mymensingh ,september, meghpunji resort,yes,fudanki restaurant,no
+1500,2800,1.0,paharpur buddhist vihara,joypurhat ,june,hotel touch & go,yes,Palace Cafe,no
+1500,2600,1.0,paharpur buddhist vihara,dhaka,april,hotel touch & go,yes,Spice Hotel and Restaurant,yes
+2100,5600,5.0,jaflong,joypurhat ,november,Golden Palace,yes,sinbad restaurant,yes
+6700,8400,1.0,bandarban,ashulia ,may,Resort Hill,yes,tohzah restaurant,yes
+2200,6900,1.5,rangamati,jashore ,april,Palace Resort,yes,peda ting ting restaurant,yes
+2200,8200,1.5,rangamati,dhaka,october,hotel green castle,no,Taste Food Court,yes
+1500,2200,1.0,paharpur buddhist vihara,dhala,february,hotel touch & go,no,Spice Hotel and Restaurant,yes
+3100,3800,4.5,kuakata,barishal,march,Golden View,yes,Golden Restaurant,yes
+2000,7500,3.5,sajek valley,barishal,november, ruilui resort,yes,Spice Kabab House,yes
+1500,2300,1.0,paharpur buddhist vihara, dhaka ,february,hotel touch & go,no,hotel al-razzaque & restaurant,yes
+2200,10000,4.0,rangamati,rajshahi ,december,Palace Resort,no,Family Cafe,yes
+1500,2900,1.0,mahasthangarh,sirajganj,november,Grand Resort,yes,Spice Restaurant,yes
+1500,3000,1.0,mahasthangarh,jashore ,january,Grand Resort,yes,Taste Kabab House,yes
+3100,4000,2.5,rangamati,rajshahi ,december, hotel green castle,no,chang pang restaurant,yes
+1500,3500,1.0,mahasthangarh,sirajganj,june,Resort International,yes,Taste Kabab House,yes
+5400,7400,3.5,rangamati,dhaka ,september, hotel green castle,yes,gang sabarang,no
+2200,7100,2.5,rangamati,rajshahi ,may,Palace Resort,yes,Family Cafe,no
+4500,7100,3.0,sajek valley,rajshahi ,january,jumghor eco resort,yes,Spice Kabab House,no
+2100,3700,3.5,bandarban,cox's bazar ,september,nilgiri resort,yes,Taste Restaurant,yes
+4000,4800,3.5,jaflong,dhaka,july,Sea View,yes,pach_bhai restaurant,yes
+3700,7400,5.0,coxs bazar,savar,september,coxs bazar inn,no,kasturi restaurant,yes
+1500,3300,1.0,panam city sonargaon,dhaka,july,Hill Garden,no,Palace Hotel and Restaurant,no
+6500,7200,1.0,saint martins island,gazipur,november,nil digonte resort,no,st. martin village restaurant,no
+1500,2400,1.0,paharpur buddhist vihara,dhaka,may,hotel naz garden (bogura),yes,hotel al-razzaque & restaurant,yes
+1500,2600,1.0,paharpur buddhist vihara,dhaka,june,Beach Palace,yes,hotel al-razzaque & restaurant,yes
+4800,6700,11.0,saint martins island,jashore,june, hotel blue pearl,yes,flying fish & food restaurant,yes
+2400,3500,5.0,lawachara national park,dhala,november,lawachara resort,no,kutum bari restaurant,yes
+5200,6400,2.0,rangamati,laxmipur,september,Beach International,yes,Taste Food Court,yes
+5600,6600,4.5,rangamati,sirajganj ,october,Hotel Lodge,yes,gang sabarang,yes
+4200,6600,6.0,saint martins island,chittagong ,august, hotel blue pearl,yes,flying fish & food restaurant,no
+2200,3600,6.0,bandarban,dinajpur ,march,Resort Hill,no,Taste Restaurant,yes
+4400,10000,9.0,lawachara national park,barisal,april,Hill View,yes,Spice Kabab House,yes
+1500,2900,1.0,paharpur buddhist vihara,dhaka,february,Beach Palace,no,midas restaurant,yes
+2200,3400,1.0,ratargul swamp forest,dhaka,november,Royal View,yes,Sea Food Court,yes
+4000,5800,3.5,bandarban, dhaka,march,Resort Hill,yes,shwe restaurant,yes
+1500,3200,1.0,paharpur buddhist vihara,bike ,july,Beach Palace,no,Palace Cafe,yes
+2000,3400,1.5,sitakunda eco park,chittagong ,august,Hotel Hotel,yes,chui jhal beef restaurant,no
+2200,3000,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,Paradise Food Court,yes
+2700,4100,4.5,rangamati,brahmanbaria ,october,Palace Resort,yes,Family Cafe,yes
+1900,10000,4.5,sajek valley,dinajpur ,december,ruilui resort,no,fudanki restaurant,yes
+2000,8400,4.5,jaflong,dinajpur ,february,Sea View,yes,Family Cafe,yes
+3600,5300,5.0,jaflong,sylhet ,june,Golden Palace,yes,pach_bhai restaurant,yes
+2600,3300,4.5,coxs bazar,savar,july,hotel naz garden,no,the seven seas restaurant,yes
+6300,8800,2.5,saint martins island,gazipur,september,coral view resort,yes,Paradise Diner,yes
+1500,10000,10.0,lawachara national park,dhaka ,december,grand sultan tea resort & golf,yes,Spice Kabab House,yes
+1500,2600,1.0,mahasthangarh,barishal ,january,Grand Resort,yes,Taste Kabab House,yes
+4700,6200,2.0,tanguar haor,dhaka,june, haor bilash cottage,yes,kichukkhon,no
+1800,2600,1.0,sitakunda eco park,dhaka,august,Hotel Hotel,yes,Traditional Hotel and Restaurant,yes
+4800,6500,2.0,tanguar haor,brahmanbaria ,august, haor bilash cottage,yes,Taste Hotel and Restaurant,no
+6600,9200,1.0,saint martins island,comilla ,december,hotel prince heaven,yes,Traditional Cafe,yes
+4800,7500,2.5,bichanakandi,noakhali ,november,Grand Hill,yes,Palace Food Court,no
+4100,7000,2.0,tanguar haor,brahmanbaria ,may, houseboats,yes,kichukkhon,no
+1700,2900,1.0,sitakunda eco park,dhaka,august,Golden Lodge,yes,zafran restaurant,no
+1500,2500,1.0,panam city sonargaon,dhaka,july,Royal Resort,yes,pan pacific sonargaon dhaka,yes
+6400,7100,3.0,sajek valley,dinajpur ,december,meghpunji resort,yes,eni lushai cottage & restaurant,no
+6600,8600,6.5,saint martins island,chittagong,september,dream night resort,no,Traditional Cafe,yes
+4200,5300,4.0,bandarban,jashore ,april,Resort Inn,yes,hill view restaurant,yes
+5200,6700,2.0,tanguar haor,brahmanbaria ,august, houseboats,yes,Traditional Diner,no
+4200,8600,4.0,sajek valley,savar,february,Palace View,no,Spice Kabab House,yes
+3000,3700,2.0,sitakunda eco park,gazipur,april,Hotel Hotel,yes,zafran restaurant,no
+1500,2300,1.0,paharpur buddhist vihara,jashore ,june,Beach Palace,no,midas restaurant,no
+2200,3700,1.0,ratargul swamp forest, teknaf,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+7500,9200,3.5,rangamati,laxmipur,november, parjatan holiday complex,no,gang sabarang,no
+1500,3400,1.0,paharpur buddhist vihara,joypurhat ,february,hotel naz garden (bogura),yes,midas restaurant,no
+3300,4700,1.5,bandarban,chottogram,april,Resort Inn,yes,Royal Restaurant,yes
+1500,3400,1.0,panam city sonargaon,dhaka ,july,Hill Garden,no,Taste Cafe,yes
+3900,5900,7.5,lawachara national park,dhaka ,november,Beach Palace,yes,Palace Diner,no
+5800,6900,9.5,saint martins island,khulna ,october,Palace Hill,yes,flying fish & food restaurant,yes
+1500,2300,1.0,mahasthangarh,panchagarh ,january,Resort International,yes,Spice Restaurant,yes
+2700,7600,1.0,jaflong,barishal ,april,jaflong tourist lodge,yes,sinbad restaurant,yes
+1500,3000,10.0,lawachara national park,dhaka ,december,Beach Palace,no,Spice Kabab House,no
+1500,2100,1.0,mahasthangarh,sirajganj,january,momo inn,yes,Taste Kabab House,yes
+5900,7700,2.5,bichanakandi,kishoreganj ,april,Golden Inn,yes,Paradise Restaurant,no
+3500,4200,3.0,bichanakandi,dhaka,january,Grand Hill,yes,panshi restaurant,yes
+6900,8900,2.5,sajek valley, teknaf,june,sajek resort,yes,maruti didi restaurant,no
+3800,8300,2.5,sajek valley, gazipur ,october,Palace Hill,yes,fudanki restaurant,no
+2600,4600,2.0,sitakunda eco park,dhaka,september,Hotel Hotel,yes,Family Restaurant,no
+3200,4700,9.5,saint martins island,cox's bazar ,july,nil digonte resort,yes,Traditional Cafe,no
+6000,7900,2.5,rangamati,gazipur ,october,Palace Resort,no,cafe mangal,yes
+6300,8000,2.0,kuakata,barisal,june,hotel graver inn international,yes,Golden Restaurant,yes
+3600,6300,2.5,bichanakandi,kishoreganj ,january,Grand Hill,yes,Palace Diner,yes
+3100,4700,3.0,jaflong,joypurhat ,november, jaflong inn,yes,pach bhai restaurant,yes
+4900,5600,3.5,coxs bazar,comilla ,march,the blue pearl hotel,yes,handi,no
+1500,3400,1.0,paharpur buddhist vihara,joypurhat ,june,hotel naz garden (bogura),no,hotel al-razzaque & restaurant,no
+1500,2000,1.0,paharpur buddhist vihara,dhala,february,Hotel View,yes,midas restaurant,yes
+2800,3500,1.0,coxs bazar,chittagong ,july,green house resort,no,the seven seas restaurant,yes
+3600,4600,1.5,jaflong,sylhet ,december,jaflong eco resort,yes,pach_bhai restaurant,yes
+1500,2200,1.0,paharpur buddhist vihara,joypurhat ,april,Hotel View,no,Spice Hotel and Restaurant,yes
+4400,8400,4.5,saint martins island,cumilla,december,Palace Hill,no,narikel jinjira restaurant,yes
+4500,5100,4.5,kuakata,kushtia,october,hotel sea coral,yes,marine restaurant and kabab,yes
+2200,3300,1.0,ratargul swamp forest,bike ,november,Green Inn,yes,sinbad restaurant,yes
+1500,2300,1.0,panam city sonargaon,dhaka,december,Hill Garden,yes,Taste Cafe,no
+1500,2900,1.0,paharpur buddhist vihara,dhaka,february,hotel naz garden (bogura),no,midas restaurant,no
+2200,3200,4.0,rangamati,rajshahi ,april,Hill Lodge,yes,Family Cafe,no
+2600,3700,1.5,sitakunda eco park,chittagong ,august,Hotel Hotel,yes,Family Restaurant,no
+1500,7700,3.0,jaflong,sylhet ,january,Sea View,yes,pach bhai restaurant,yes
+1500,3000,1.0,paharpur buddhist vihara,"jatrabari,dhaka",february,Beach Palace,yes,Palace Cafe,yes
+5000,6300,2.0,saint martins island,panchagarh ,september,hotel prince heaven,yes,narikel jinjira restaurant,yes
+1500,3100,1.0,panam city sonargaon,dhaka ,july, (nearby in narayanganj/dhaka) pan pacific sonargaon,yes,pan pacific sonargaon dhaka,no
+2900,4400,3.5,bandarban,brahmanbaria,may,nafakhum resort,yes,hill's dine,yes
+1500,2900,1.0,panam city sonargaon,dhaka ,march,Hill Garden,no,Taste Kabab House,yes
+4900,5700,5.0,jaflong,dhaka,november,jaflong eco resort,yes,sinbad restaurant,yes
+4700,6500,1.5,rangamati,rajshahi ,august,Beach International,yes,peda ting ting restaurant,yes
+4100,5800,2.0,bandarban,"jatrabari,dhaka",february,hotel green hill,no,chimbuk hill restaurant,no
+4100,5400,1.0,bandarban,chottogram,january,hill resort,no,tohzah restaurant,yes
+1500,3000,1.0,mahasthangarh, dhaka ,march,Grand Resort,yes,Spice Restaurant,yes
+3300,4900,4.5,jaflong,sylhet,january,Golden Palace,yes,jaflong view restaurant,yes
+3000,4900,5.0,rangamati,rajshahi ,november,parjatan holiday complex,no,peda ting ting restaurant,no
+1500,3500,10.0,lawachara national park,dhaka ,november,Beach Palace,yes,Spice Kabab House,yes
+1500,2800,1.0,panam city sonargaon,bandorban ,july, (nearby in narayanganj/dhaka) pan pacific sonargaon,no,Paradise Diner,yes
+6200,7400,2.5,bandarban,noakhali ,october,chimbuk hill resort,no,Taste Restaurant,no
+1500,2400,1.0,panam city sonargaon,dhaka ,july,sonargaon hotel & resort,no,sonargaon restauran,yes
+6900,8300,2.0,coxs bazar,narsingdi ,march,crystal beach resort,no,poushee hotel & restaurant,yes
+1900,3100,1.5,sitakunda eco park,chittagong ,september,sitakunda eco resort,yes,zafran restaurant,no
+3000,4400,2.0,coxs bazar,narsingdi ,august,mermaid beach resort,yes,senorita beach cafe,yes
+4200,5500,5.0,jaflong,dhaka,october,Sea View,yes,Golden Food Court,yes
+1500,2400,1.0,paharpur buddhist vihara,joypurhat ,february,Hotel View,yes,hotel al-razzaque & restaurant,yes
+5000,6100,2.0,tanguar haor,dhaka,august,Hill Hill,yes,rose garden restaurant,no
+5300,7200,3.5,coxs bazar,barishal ,july,the waves cox's bazar,yes,sea lamp beach cafe,yes
+3800,5900,2.0,tanguar haor,dhaka,march,Palace Palace,yes,Traditional Diner,no
+5200,7200,2.0,tanguar haor,dhaka,december,Palace Palace,yes,Paradise Food Court,no
+6800,8100,2.0,sajek valley,dhaka ,september, a-frame cottage sajek,yes,Spice Kabab House,yes
+2900,4800,4.0,jaflong,sylhet ,july,Golden Palace,yes,jaflong view restaurant,yes
+5400,6900,2.0,bandarban,noakhali ,january, nilgiri resort,yes,hill's dine,no
+1500,2600,1.0,mahasthangarh,bike ,may,momo inn,yes,Taste Kabab House,yes
+1500,2100,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,Spice Restaurant,yes
+4300,5000,3.0,kuakata,khulna ,november,kuakata holiday inn,yes,kuakata hotel & restaurant,yes
+2400,3600,1.0,sitakunda eco park,dhaka,september,(nearby in chattogram) radisson blu chattogram bay view,yes,rajbari restaurant,yes
+3000,8900,1.5,bichanakandi,tangail,january,bichanakandi resort,yes,Traditional Food Court,no
+6700,7400,6.0,coxs bazar,gazipur,july,taj garden resort,no,kasturi restaurant,yes
+2100,4100,5.0,kuakata,gazipur ,june,Green Palace,yes,Golden Hotel and Restaurant,yes
+1500,2300,1.0,panam city sonargaon,dhaka,december,sonargaon hotel & resort,yes,Taste Kabab House,yes
+5800,10000,8.5,lawachara national park,dhaka ,december,lawachara resort,no,Palace Diner,yes
+1900,3600,1.0,sitakunda eco park,chittagong ,august,Hotel Hotel,yes,zafran restaurant,yes
+1900,3800,1.5,sitakunda eco park,sylhet,january,sitakunda eco resort,yes,rajbari restaurant,no
+5900,6800,1.5,bichanakandi,kishoreganj ,july,Golden Inn,yes,Palace Food Court,no
+2600,4400,1.5,sitakunda eco park,mymensingh ,august,Golden Lodge,yes,Traditional Hotel and Restaurant,no
+1500,3200,3.5,jaflong,sylhet,june,Golden Palace,yes,pach_bhai restaurant,yes
+2000,10000,3.0,coxs bazar,faridpur ,may,royal tulip sea pearl beach resort,yes,kasturi restaurant,yes
+4500,5100,2.0,saint martins island,chittagong,october,Palace Hill,yes,flying fish & food restaurant,no
+5400,6200,3.5,sajek valley,savar,march, meghpunji resort,no,Royal Restaurant,no
+1500,3100,1.0,mahasthangarh,sirajganj,september,Palace Hill,yes,Spice Restaurant,yes
+4900,7000,2.0,tanguar haor,dhaka,august, houseboats,yes,Paradise Food Court,no
+3000,3800,1.5,sitakunda eco park,pabna,september, radisson blu chattogram bay view,yes,Traditional Hotel and Restaurant,no
+1500,3400,1.0,panam city sonargaon,dhala,september,Hill Resort,no,Taste Kabab House,yes
+1500,3000,1.0,paharpur buddhist vihara,joypurhat ,june,Hotel View,yes,Spice Hotel and Restaurant,no
+1800,3300,1.5,sitakunda eco park,cumilla,august,Hotel Hotel,yes,zafran restaurant,yes
+3100,10000,7.5,lawachara national park,dhaka ,december,lawachara resort,no,Spice Kabab House,yes
+5600,6900,4.0,coxs bazar,savar,march,shahi hotel,yes,palongki inani,no
+5900,10000,4.0,saint martins island,chittagong ,march,hotel blue pearl,no,narikel jinjira restaurant,no
+3800,7700,1.0,coxs bazar,dhaka ,june,Royal Resort,yes,kashbon restaurant,no
+4400,6300,1.0,bichanakandi,bandorban ,may,Grand Hill,no,Traditional Food Court,yes
+2800,4600,2.0,sitakunda eco park,chittagong ,september," the peninsula chittagong, hotel agrabad",yes,chui jhal beef restaurant,no
+2200,3800,1.0,ratargul swamp forest,campus ,august,shah kamal hotel sylhet,yes,sinbad restaurant,yes
+3800,5100,2.0,tanguar haor,brahmanbaria ,june,Palace Palace,yes,Palace Diner,no
+1500,2400,1.0,panam city sonargaon,dhaka ,november,sonargaon hotel & resort,no,Taste Cafe,yes
+5800,6500,4.0,coxs bazar,faridpur,april,hotel sea crown,yes,palongki inani,yes
+4300,5200,2.0,tanguar haor,dhaka,june, houseboats,yes,Palace Diner,no
+1500,2900,4.5,bandarban,sylhet,january, hillside resort,yes,Royal Restaurant,yes
+2500,4300,1.0,sitakunda eco park,dhaka,december," the peninsula chittagong, hotel agrabad",yes,zafran restaurant,yes
+5900,9800,2.5,sajek valley,dhaka,january, meghpunji resort,yes,maruti didi restaurant,yes
+3400,5600,3.5,bandarban,chittagong ,september,Royal Hotel,yes,green prairie restaurant,yes
+1500,2600,1.0,paharpur buddhist vihara,dhaka,june,Beach Palace,yes,Palace Cafe,no
+5000,6900,1.0,bichanakandi,kishoreganj ,january,bichanakandi resort,yes,saffron restaurant,yes
+1500,2200,1.0,mahasthangarh,sirajganj,september,Resort International,yes,casuarina,yes
+2400,3400,4.0,jaflong, dhaka ,january,hotel noorjahan grand,yes,pach_bhai restaurant,yes
+2200,3800,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+1500,2200,1.0,mahasthangarh,sirajganj,january,Grand Resort,yes,Traditional Hotel and Restaurant,yes
+1500,3000,1.0,paharpur buddhist vihara,joypurhat ,june,hotel naz garden (bogura),yes,hotel al-razzaque & restaurant,yes
+3000,4200,1.5,sitakunda eco park,dhaka,september,sitakunda eco resort,yes,chui jhal beef restaurant,no
+1500,2500,1.0,paharpur buddhist vihara,dhaka,february,hotel touch & go,no,midas restaurant,yes
+3800,5400,2.0,tanguar haor,brahmanbaria ,december, houseboats,yes,Paradise Food Court,no
+2400,7600,1.0,kuakata, barishal,january,hotel graver inn international,yes,rajdhani hotel & restaurant,yes
+1800,6700,6.0,bandarban,chottogram,november,Resort Hill,no,kalapata restaurant,yes
+2900,8700,8.0,saint martins island,pabna,april,hotel blue pearl,yes,st. martin village restaurant,no
+2600,7600,8.5,lawachara national park,dhaka ,august,grand sultan tea resort & golf,yes,kutum bari restaurant,no
+2900,4200,4.5,kuakata,barishal,october,kuakata holiday inn,no,marine restaurant and kabab,no
+1500,3300,1.0,paharpur buddhist vihara,chottogram,june,hotel naz garden (bogura),no,midas restaurant,no
+1500,2200,1.0,mahasthangarh, gazipur ,january,Palace Hill,yes,Spice Restaurant,yes
+1500,3500,1.0,mahasthangarh,savar,march,Resort International,yes,Spice Restaurant,yes
+1500,3300,2.0,sitakunda eco park,dhaka,august, radisson blu chattogram bay view,yes,zafran restaurant,no
+1500,3200,1.0,paharpur buddhist vihara,dhaka,june,Beach Palace,no,Palace Cafe,yes
+5500,7100,2.0,kuakata,barishal ,september,hotel aman international,yes,hotel nibedita & restaurant,no
+3800,9900,10.0,lawachara national park,dhaka ,december,lawachara resort,no,kutum bari restaurant,no
+2300,4100,2.0,sitakunda eco park, barishal,september,sitakunda eco resort,yes,Traditional Hotel and Restaurant,no
+2800,6400,9.0,saint martins island,faridpur ,february,hotel blue pearl,yes,jol torongo restora,no
+2000,2900,5.0,lawachara national park, dhaka ,february,grand sultan tea resort & golf,yes,Spice Kabab House,yes
+4800,6700,3.5,rangamati,dhaka,december,hotel green castle,no,chang pang restaurant,no
+3200,10000,9.5,lawachara national park,faridpur ,september,Beach Palace,no,asian eco cafe & restaurant,yes
+5100,7000,2.0,jaflong,dhaka,january,Sea View,yes,panshi restaurant,no
+4300,6300,5.0,lawachara national park, gazipur ,june,Hill View,yes,kutum bari restaurant,yes
+4600,6200,2.5,bandarban,dhaka,october,hill resort,yes,hill view restaurant,yes
+4200,6200,1.5,rangamati,dhaka,december,parjatan holiday complex,yes,Taste Food Court,yes
+1500,2100,1.0,mahasthangarh,sirajganj,january,Resort International,yes,Spice Restaurant,yes
+3000,4400,1.0,sitakunda eco park,campus ,august,Golden Lodge,yes,chui jhal beef restaurant,no
+1500,2200,1.0,panam city sonargaon,dhaka,december,Hill Garden,yes,Paradise Diner,yes
+1600,2300,2.0,kuakata,dhaka,april,sikder resort & villas,no,Golden Hotel and Restaurant,yes
+3300,5100,1.0,bandarban,chittagong,november,hill resort,no,hill view restaurant,yes
+3900,8500,5.0,jaflong,dinajpur ,april, jaflong inn,yes,Family Cafe,yes
+1500,3500,1.0,panam city sonargaon,dhaka ,march, (nearby in narayanganj/dhaka) pan pacific sonargaon,no,Taste Kabab House,yes
+1500,2800,1.0,paharpur buddhist vihara,dhaka,june,Hotel View,no,Spice Hotel and Restaurant,no
+2200,3400,1.0,ratargul swamp forest,laxmipur,november,shah kamal hotel sylhet,yes,sinbad restaurant,yes
+5100,7000,2.0,tanguar haor,satkhira ,june, houseboats,yes,Taste Hotel and Restaurant,no
+1500,3200,1.0,mahasthangarh,narsingdi ,january,Grand Resort,yes,Taste Kabab House,yes
+1500,2300,1.0,panam city sonargaon,gazipur,september,Hill Garden,no,Taste Kabab House,no
+1500,2000,1.0,paharpur buddhist vihara,joypurhat ,february,hotel naz garden (bogura),yes,Spice Hotel and Restaurant,no
+2400,4600,2.5,kuakata,comilla ,december,hotel grand safa inn,yes,banorupa garden restaurant,yes
+2200,3700,1.0,ratargul swamp forest,"jatrabari,dhaka",june,Royal View,yes,sinbad restaurant,yes
+4100,6700,3.5,bandarban, dhaka,december,hotel green hill,no,hill's dine,yes
+2600,5700,1.5,coxs bazar,brahmanbaria ,february,new tower hotel,yes,sea view restaurant,no
+2200,5600,2.0,bichanakandi,kishoreganj ,may,bichanakandi resort,yes,Traditional Food Court,no
+3900,5500,5.0,jaflong,sylhet,july,jaflong green resort,no,jaflong view restaurant,yes
+7500,8900,1.0,bichanakandi,chittagong ,january,bichanakandi resort,no,Palace Diner,no
+6400,7000,1.5,bichanakandi,kishoreganj ,august,Golden Inn,yes,Palace Food Court,yes
+5200,6100,2.0,tanguar haor,brahmanbaria,march, haor bilash cottage,yes,kichukkhon,no
+3800,7800,2.5,rangamati,dhaka,september,Hill Lodge,no,Taste Food Court,yes
+5000,6800,1.0,saint martins island,barisal,march, coral view resort,yes,st. martin village restaurant,yes
+2200,4200,1.0,ratargul swamp forest,"jatrabari,dhaka",december,Royal View,yes,Sea Food Court,yes
+3400,4000,3.5,rangamati,campus ,october,Beach International,yes,cafe mangal,no
+1700,5400,3.0,kuakata,dhaka,september,kuakata holiday inn,yes,marine restaurant and kabab,yes
+1900,3400,1.0,jaflong,kushtia,january,jaflong eco resort,yes,sinbad restaurant,yes
+1500,2400,1.0,mahasthangarh,sirajganj,september,Palace Hill,yes,casuarina,yes
+3500,8600,2.0,kuakata,faridpur,october,somudra bari resort,yes,hotel nibedita & restaurant,yes
+4700,8800,2.0,kuakata, dhaka,october,somudra bari resort,no,Palace Diner,yes
+1500,4900,3.5,sajek valley,comilla ,december,Palace View,yes,maruti didi restaurant,yes
+1500,3200,1.0,paharpur buddhist vihara,joypurhat ,june,hotel touch & go,no,midas restaurant,no
+7500,8200,7.0,lawachara national park,sirajganj,december,grand sultan tea resort & golf,no,Spice Kabab House,no
+1500,2700,1.0,mahasthangarh,tangail,january,Palace Hill,yes,Traditional Hotel and Restaurant,yes
+7500,9100,2.5,coxs bazar,home,january,ratargul swamp forest,no,Golden Food Court,yes
+4600,10000,11.0,saint martins island,dhaka,april,hotel prince heaven,no,Traditional Cafe,no
+1500,3400,1.0,mahasthangarh,jashore ,january,Grand Resort,yes,Traditional Hotel and Restaurant,yes
+1900,4100,5.0,jaflong,dinajpur ,november, jaflong inn,yes,panshi restaurant,yes
+1500,8400,9.5,lawachara national park,dhaka ,november,Hill View,no,kutum bari restaurant,no
+5600,6400,5.0,bandarban,chottogram,january,Grand Resort,no,Taste Restaurant,yes
+4600,5600,4.5,kuakata,dhaka,september,hotel aman international,no,banorupa garden restaurant,yes
+3800,5900,2.0,tanguar haor,dhaka,december,Palace Palace,yes,Palace Diner,no
+2900,5400,3.0,rangamati,dhaka,october,Hotel Lodge,yes,gang sabarang,no
+2300,3700,2.0,sitakunda eco park, barishal,may,Golden Lodge,yes,zafran restaurant,no
+4800,10000,4.5,coxs bazar,narayanganj ,april,bangladesh parjatan corporation motel,yes,sea lamp beach cafe,yes
+1500,2800,1.0,paharpur buddhist vihara,dhaka,october,hotel touch & go,no,Spice Hotel and Restaurant,no
+5600,6200,5.0,saint martins island,noakhali ,july, hotel blue pearl,no,jol torongo restora,no
+1500,2800,1.0,sitakunda eco park,dhaka,july,Hotel Hotel,yes,rajbari restaurant,yes
+1700,3400,2.0,sitakunda eco park,faridpur ,june,Golden Lodge,yes,chui jhal beef restaurant,no
+1500,3200,1.0,paharpur buddhist vihara,noakhali ,october,Hotel View,no,Palace Cafe,no
+1500,2900,1.0,mahasthangarh,sirajganj,january,momo inn,yes,casuarina,yes
+5600,8100,6.0,saint martins island,cox's bazar ,december,saint martins island resort,yes,Paradise Diner,no
+3400,9100,5.0,lawachara national park,dhaka ,december,lawachara resort,yes,asian eco cafe & restaurant,no
+6400,7000,1.0,saint martins island,"jatrabari,dhaka",july,saint martins island resort,yes,Paradise Diner,no
+1500,7800,7.5,lawachara national park,kishoreganj ,november,Beach Palace,yes,kutum bari restaurant,no
+1500,3300,1.0,kuakata,tangail,february,kuakata grand hotel & sea resort,yes,banorupa garden restaurant,yes
+3800,6300,2.0,tanguar haor,tangail,june,Palace Palace,yes,Taste Hotel and Restaurant,no
+1500,6000,4.0,bandarban,dhala,january,Resort Hill,no,tajingdong restora,yes
+3400,5700,6.5,saint martins island,"rajbari,dhaka",january,coral view resort,yes,Traditional Cafe,yes
+1900,2900,2.0,kuakata,barishal,november,hotel sea coral,yes,Palace Diner,no
+1500,3100,1.0,panam city sonargaon,narsingdi ,december,Hill Resort,no,pan pacific sonargaon dhaka,yes
+2300,3400,3.0,kuakata,barisal,january,hotel sea queen resort,yes,Palace Diner,yes
+5900,6700,5.0,lawachara national park,cox's bazar,july,grand sultan tea resort & golf,no,kutum bari restaurant,no
+1500,3100,1.0,panam city sonargaon,dhaka ,december, (nearby in narayanganj/dhaka) pan pacific sonargaon,no,sonargaon restaurant,yes
+3400,4900,2.5,bichanakandi,dhaka,november,bichanakandi resort,yes,saffron restaurant,no
+1500,3400,1.0,paharpur buddhist vihara,joypurhat ,june,Hotel View,yes,midas restaurant,no
+2300,2900,4.0,kuakata,thakurgaon,october,hotel sea coral,yes,sea palace restaurant,yes
+1500,2800,1.0,panam city sonargaon,dhaka ,july,Hill Garden,no,Taste Kabab House,yes
+3500,8100,2.0,coxs bazar,dhaka ,july,the waves cox's bazar,yes,sea lamp beach cafe,yes
+4600,9200,2.5,sajek valley,barishal,november,sajek tourist complex,no,chhimbal restaurant,yes
+5800,7700,3.0,bichanakandi,kishoreganj ,january,Grand Hill,yes,Paradise Restaurant,no
+7500,9000,5.0,lawachara national park,dhaka ,november,Hill View,yes,kutum bari restaurant,no
+2300,3400,1.0,sitakunda eco park,chittagong ,september,Golden Lodge,yes,chui jhal beef restaurant,no
+4000,5500,2.0,tanguar haor, teknaf,may,Hill Hill,yes,Palace Diner,no
+2700,4500,2.5,bichanakandi,kishoreganj ,september,Golden Inn,no,saffron restaurant,yes
+2700,8900,3.5,bandarban,kushtia,december,sairu hill resort,yes,chimbuk hill restaurant,yes
+5900,7200,3.0,sajek valley,thakurgaon,november, ruilui resort,yes,sajek chilikotha restaurant,yes
+4200,5900,3.0,jaflong,laxmipur,february,Sea View,yes,panshi restaurant,yes
+1900,3800,1.5,sitakunda eco park,dinajpur ,december," the peninsula chittagong, hotel agrabad",yes,rajbari restaurant,no
+1700,5900,2.5,kuakata,joypurhat ,january,Golden View,no,rajdhani hotel & restaurant,no
+3700,8700,5.0,sajek valley,dhaka ,september,sajek valley resort,yes,Spice Food Court,yes
+6000,7800,8.5,lawachara national park,dhaka ,november,Beach Palace,yes,kutum bari restaurant,no
+4400,9200,7.0,saint martins island,dhaka ,april,hotel prince heaven,yes,hasan restaurant,yes
+3400,7900,2.0,kuakata,sirajganj,december,hotel aman international,yes,Golden Restaurant,yes
+4600,7300,5.5,bandarban, dhaka,may,Resort Hill,yes,Royal Restaurant,yes
+1500,2400,1.0,mahasthangarh,sirajganj,january,momo inn,yes,Traditional Hotel and Restaurant,yes
+4400,6800,2.5,sajek valley,bike ,april,sajek resort,no,Royal Restaurant,yes
+2700,5100,2.0,bichanakandi,sylhet ,november,Golden Inn,no,Palace Food Court,no
+1500,2600,1.0,panam city sonargaon,dhaka,july,Hill Garden,yes,Paradise Diner,no
+2200,4200,1.0,ratargul swamp forest,campus ,november,Royal View,yes,Paradise Food Court,yes
+2500,3700,1.0,kuakata, chattogram ,january,hotel sea queen resort,yes,Palace Diner,yes
+4900,5400,2.5,bichanakandi,dhaka,january,Golden Inn,yes,Palace Food Court,no
+4300,5800,3.5,jaflong,dinajpur ,july,Sea View,yes,pach_bhai restaurant,yes
+3800,5000,3.0,bandarban,kushtia,march,nilgiri resort,yes,Royal Restaurant,yes
+7500,10000,10.0,lawachara national park, teknaf,december,Beach Palace,yes,Spice Kabab House,yes
+2200,3800,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,Paradise Food Court,yes
+2400,3900,2.0,sitakunda eco park,chittagong ,september,(nearby in chattogram) radisson blu chattogram bay view,yes,zafran restaurant,yes
+1500,2300,5.0,coxs bazar,cumilla ,december,Royal Resort,yes,salt bistro & cafe,no
+1500,3300,1.0,mahasthangarh,sirajganj,march,Grand Resort,yes,Traditional Hotel and Restaurant,yes
+7500,9100,4.5,sajek valley,dhala,november,sajek tourist complex,yes,sajek chilikotha restaurant,yes
+1500,2500,1.0,paharpur buddhist vihara,joypurhat ,june,hotel touch & go,no,Palace Cafe,no
+1500,3000,1.0,panam city sonargaon,narayanganj ,december,Hill Garden,no,Palace Hotel and Restaurant,no
+4900,5700,7.5,lawachara national park,dhaka ,december,Beach Palace,no,Palace Diner,yes
+3300,6800,3.5,coxs bazar,laxmipur,february,royal beach hotel,yes,salt bistro & cafe,yes
+5100,7000,2.0,kuakata,barishal,february,Green Palace,no,hotel nibedita & restaurant,yes
+2800,5300,1.0,bichanakandi,dhaka,november,bichanakandi resort,yes,panshi restaurant,no
+5900,6400,2.0,jaflong,dinajpur ,june,jaflong tourist lodge,yes,pach_bhai restaurant,yes
+1500,4000,1.0,sitakunda eco park,dhaka,june, radisson blu chattogram bay view,yes,zafran restaurant,no
+1500,5500,3.5,coxs bazar, teknaf,january,grace cox smart hotel,yes,sea lamp beach cafe,yes
+1500,3200,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,Spice Restaurant,yes
+3400,4000,4.0,jaflong,sylhet,may,jaflong tourist lodge,yes,jaflong view restaurant,yes
+3400,9700,1.0,bichanakandi,dhaka,november,Grand Hill,yes,saffron restaurant,yes
+1500,3300,1.0,mahasthangarh,chittagong,december,momo inn,yes,Traditional Hotel and Restaurant,yes
+1500,2100,1.0,mahasthangarh,sirajganj,june,Grand Resort,yes,Traditional Hotel and Restaurant,yes
+3400,7300,4.5,saint martins island,"rajbari,dhaka",august,Palace Hill,no,Traditional Cafe,yes
+4300,7000,2.0,tanguar haor,dhaka,june,Palace Palace,yes,Paradise Food Court,no
+3200,4900,5.0,jaflong,savar,december,hotel noorjahan grand (sylhet),yes,Golden Food Court,yes
+4200,5600,5.0,jaflong,home,march, jaflong green resort,yes,pach bhai restaurant,yes
+1500,2500,1.0,panam city sonargaon,dhaka,december,Hill Resort,no,pan pacific sonargaon dhaka,no
+2900,8000,1.0,bichanakandi,dhaka,march,Grand Hill,yes,Paradise Restaurant,no
+2400,7900,2.5,sajek valley,comilla ,september,Palace View,yes,the taste of sajek restaurant,yes
+2200,3600,1.0,ratargul swamp forest,gazipur ,november,Green Inn,yes,sinbad restaurant,yes
+2200,6300,4.5,kuakata,tangail,september,Golden View,yes,sea palace restaurant,yes
+1500,10000,7.0,lawachara national park,gazipur,december,lawachara resort,no,Spice Kabab House,yes
+1500,2600,1.0,panam city sonargaon,dhaka ,december,Hill Resort,no,sonargaon restauran,no
+2200,3400,3.5,jaflong,dhaka,september,hotel noorjahan grand,no,jaflong view restaurant,yes
+1500,2400,1.0,panam city sonargaon,dhaka,july,Hill Resort,yes,Paradise Diner,yes
+1900,2700,1.5,sitakunda eco park,chottogram,september,Golden Lodge,yes,rajbari restaurant,no
+2200,3000,5.0,coxs bazar,ashulia ,july,Beach View,yes,sea view restaurant,yes
+6200,8000,3.0,sajek valley,narsingdi ,november,Palace Hill,no,sajek kutumbari restaurant,yes
+5300,7600,4.0,sajek valley,chittagong ,december,sajek resort,no,sajek chilikotha restaurant,yes
+4400,9600,1.0,coxs bazar,home,march,cox's bazar hotel & convention centre,yes,salt bistro & cafe,no
+2000,3700,2.0,sitakunda eco park,barisal,august, radisson blu chattogram bay view,yes,rajbari restaurant,no
+3600,5100,8.0,bandarban,barishal,october,Resort Inn,no,Taste Restaurant,yes
+3100,5000,2.5,jaflong,sylhet ,may,jaflong green resort,no,Family Cafe,yes
+6200,7600,2.5,bandarban,chottogram,april,sairu hill resort,yes,tohzah restaurant,no
+2200,3500,1.0,ratargul swamp forest,cox's bazar,november,shah kamal hotel sylhet,yes,sinbad restaurant,yes
+6000,9400,11.5,saint martins island,faridpur ,january, hotel blue pearl,yes,hasan restaurant,no
+1500,3200,1.0,paharpur buddhist vihara,dhaka,february,Beach Palace,yes,Palace Cafe,yes
+2200,3400,1.0,ratargul swamp forest,joypurhat ,november,Royal View,yes,sinbad restaurant,yes
+3600,7100,4.0,rangamati,narsingdi ,september,parjatan holiday complex,yes,peda ting ting restaurant,yes
+3500,5200,6.5,lawachara national park,dhaka ,december,grand sultan tea resort & golf,no,Palace Diner,no
+1500,2200,1.0,paharpur buddhist vihara,gazipur ,june,hotel touch & go,yes,Spice Hotel and Restaurant,no
+4700,5900,2.0,tanguar haor,brahmanbaria ,november,Hill Hill,yes,Paradise Food Court,no
+1500,2400,1.0,paharpur buddhist vihara,savar ,april,hotel touch & go,yes,Spice Hotel and Restaurant,yes
+3000,4400,1.5,sitakunda eco park,dhaka,august,(nearby in chattogram) radisson blu chattogram bay view,yes,Traditional Hotel and Restaurant,no
+1500,2700,1.0,coxs bazar,home,march,cox's bazar holiday resort,yes,kasturi restaurant,yes
+5200,6300,2.0,tanguar haor,brahmanbaria ,august,Hill Hill,yes,Taste Hotel and Restaurant,no
+1500,3400,1.0,panam city sonargaon,ashulia ,july,Royal Resort,yes,pan pacific sonargaon dhaka,no
+3600,4700,3.0,kuakata,sylhet ,september,hotel sea orchid,yes,sea palace restaurant,yes
+6300,7800,6.5,saint martins island,noakhali ,march,nil digonte resort,yes,flying fish & food restaurant,no
+5800,6800,3.5,bandarban,chittagong,may,Royal Hotel,no,chimbuk hill restaurant,yes
+1700,4400,2.0,kuakata,barisal,october,hotel sea orchid,no,sea palace restaurant,yes
+6800,8600,5.0,jaflong,satkhira ,september,jaflong eco resort,yes,pach bhai restaurant,yes
+4500,6300,4.5,bandarban,chittagong ,february, milonchhori eco resort,yes,shwe restaurant,yes
+1700,2300,2.0,sitakunda eco park,chittagong ,september,Golden Lodge,yes,rajbari restaurant,yes
+1500,2600,3.0,coxs bazar,bandorban ,april,sundarbans resort,yes,sea view restaurant,yes
+1500,2800,1.0,panam city sonargaon,dhaka ,december,Royal Resort,no,sonargaon restauran,yes
+7500,8500,8.0,lawachara national park,dhaka ,december,lawachara resort,yes,Palace Diner,yes
+2200,3100,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,sinbad restaurant,yes
+1500,2200,1.0,paharpur buddhist vihara,bike ,june,hotel naz garden (bogura),no,Spice Hotel and Restaurant,yes
+2200,3900,1.0,ratargul swamp forest,campus ,may,Green Inn,yes,Paradise Food Court,yes
+5500,8300,1.0,bichanakandi,noakhali ,january,Golden Inn,yes,saffron restaurant,no
+2500,3400,2.0,sitakunda eco park,chittagong ,july,Golden Lodge,yes,rajbari restaurant,no
+4600,6500,3.5,jaflong,cumilla,september,Sea View,no,sinbad restaurant,yes
+3800,5900,2.0,tanguar haor,tangail,october,Hill Hill,yes,Taste Hotel and Restaurant,no
+4100,6800,2.0,tanguar haor,savar ,october,Palace Palace,yes,Traditional Diner,no
+5200,7200,2.5,coxs bazar,cox's bazar,september,seagull hotel,yes,poushee hotel & restaurant,no
+2200,3100,1.0,ratargul swamp forest,cumilla,may,Resort Hill,yes,Paradise Food Court,yes
+2400,4400,1.0,jaflong,sylhet ,july,hotel noorjahan grand,yes,pach bhai restaurant,no
+1500,2500,1.0,panam city sonargaon,dhaka ,april,Grand Hill,no,Taste Kabab House,yes
+7500,9500,1.0,bichanakandi,dhaka,september,Golden Inn,yes,panshi restaurant,yes
+5000,5900,6.0,bandarban,chittagong ,october,chimbuk hill resort,no,hill's dine,yes
+2800,8600,2.0,bichanakandi,kishoreganj ,september,Golden Inn,yes,Palace Diner,yes
+4100,4700,4.5,kuakata,khulna ,june,sikder resort & villas,no,Golden Hotel and Restaurant,yes
+1500,3400,1.0,mahasthangarh,sirajganj,march,momo inn,yes,Traditional Hotel and Restaurant,yes
+1500,2900,1.0,panam city sonargaon,dhaka ,july,Royal Resort,yes,sonargaon restauran,no
+2800,3700,4.0,bandarban, dhaka,may,hotel green hill,yes,Taste Restaurant,no
+6400,7900,3.5,coxs bazar,chittagong,may,hotel sea crown,yes,the seven seas restaurant,no
+3600,5900,2.5,sajek valley,mymensingh ,december, meghpunji resort,no,Royal Restaurant,yes
+2200,3500,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,Paradise Food Court,yes
+7500,10000,7.0,saint martins island,jashore,october,Palace Hill,yes,narikel jinjira restaurant,yes
+3300,6100,2.5,sajek valley,dhaka ,december,jumghor eco resort,yes,sajek chilikotha restaurant,yes
+4500,5700,1.5,jaflong,sylhet ,april,hotel noorjahan grand,yes,Family Cafe,no
+3200,4900,1.0,bichanakandi,satkhira ,january,Golden Inn,no,Paradise Restaurant,yes
+3600,5400,2.5,rangamati,sirajganj ,august,Hill Lodge,no,gang sabarang,yes
+1700,3100,1.0,sitakunda eco park,faridpur ,september,Hotel Hotel,yes,Family Restaurant,no
+1500,2900,1.0,panam city sonargaon,dhaka,february,Hill Garden,yes,pan pacific sonargaon dhaka,yes
+1500,2100,1.0,paharpur buddhist vihara,brahmanbaria,february,Beach Palace,yes,hotel al-razzaque & restaurant,no
+4600,6400,4.0,sajek valley,mymensingh ,december, a-frame cottage sajek,yes,sajek kutumbari restaurant,no
+2200,3700,1.0,ratargul swamp forest,sirajganj,june,Resort Hill,yes,sinbad restaurant,yes
+1500,3300,1.0,panam city sonargaon,cox's bazar,november,Royal Resort,no,Paradise Diner,yes
+1500,2200,1.0,panam city sonargaon,dhaka,december,sonargaon hotel & resort,no,Taste Kabab House,no
+1500,2200,1.0,panam city sonargaon,tangail,july,sonargaon hotel & resort,yes,Taste Kabab House,yes
+5700,7400,3.0,sajek valley,thakurgaon,november,sajek resort,no,chhimbal restaurant,yes
+2900,4500,1.5,bandarban,barishal,may,Royal Hotel,yes,chimbuk hill restaurant,no
+1500,3000,1.0,mahasthangarh,sirajganj,may,momo inn,yes,casuarina,yes
+2400,3400,2.5,coxs bazar,chittagong,june,"waves edge resort
+",yes,Spice Restaurant,no
+1500,3100,1.0,panam city sonargaon,campus ,july,Grand Hill,no,Taste Cafe,yes
+4300,4900,3.5,bandarban,dhaka,january, hillside resort,yes,shwe restaurant,no
+3900,6700,4.0,kuakata,dhaka,april,hotel sea paradise,yes,hotel nibedita & restaurant,no
+5800,7100,2.0,bichanakandi,dhaka,november,Golden Inn,yes,saffron restaurant,yes
+2800,6400,2.0,bichanakandi,kishoreganj ,july,Grand Hill,no,Paradise Restaurant,no
+1500,3300,1.0,panam city sonargaon,dhaka,july,Hill Garden,no,Taste Cafe,yes
+3500,5300,3.0,kuakata,narayanganj ,september,blue ocean hotel & resort,no,Palace Diner,yes
+7500,10000,9.0,saint martins island,savar,february,hotel prince heaven,yes,st. martin village restaurant,yes
+2200,3800,2.0,rangamati,gazipur,october,Beach International,no,peda ting ting restaurant,no
+1500,2000,1.0,paharpur buddhist vihara,joypurhat ,october,hotel touch & go,yes,midas restaurant,yes
+1500,6700,10.0,lawachara national park,dhaka ,december,Beach Palace,yes,Spice Kabab House,no
+3500,4400,2.5,coxs bazar,cox's bazar ,august,sundarbans resort,no,bay marine beach resort restaurant,no
+1500,3900,2.0,sitakunda eco park,pabna,august," the peninsula chittagong, hotel agrabad",yes,chui jhal beef restaurant,no
+5100,6800,1.5,bichanakandi,dhaka,august,Grand Hill,yes,Paradise Restaurant,no
+2200,3000,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+2400,5800,2.0,sajek valley,"rajbari,dhaka",october,Palace View,yes,Royal Restaurant,no
+1500,3300,1.0,paharpur buddhist vihara,tangail,june,hotel naz garden (bogura),yes,hotel al-razzaque & restaurant,no
+2200,3100,1.0,ratargul swamp forest,narsingdi ,november,Royal View,yes,Paradise Food Court,yes
+1900,2900,1.0,sitakunda eco park,dhaka,october,(nearby in chattogram) radisson blu chattogram bay view,yes,chui jhal beef restaurant,yes
+1500,3000,1.0,panam city sonargaon,dhaka ,december, (nearby in narayanganj/dhaka) pan pacific sonargaon,yes,sonargaon restauran,yes
+2600,5700,6.0,bandarban,brahmanbaria,april, milonchhori eco resort,yes,green prairie restaurant,yes
+5500,7700,5.0,sajek valley,dhaka,february,Palace View,yes,Royal Restaurant,yes
+1500,3100,1.0,paharpur buddhist vihara,joypurhat ,june,Hotel View,no,Spice Hotel and Restaurant,no
+2200,3900,1.0,ratargul swamp forest,gazipur ,april,Green Inn,yes,Paradise Food Court,yes
+3500,7800,3.5,rangamati,pabna,june, hotel green castle,no,peda ting ting restaurant,no
+5000,10000,3.5,sajek valley,thakurgaon,january,sajek resort,yes,Royal Cafe,yes
+7500,9200,3.0,bichanakandi,dhaka,november,Golden Inn,no,Palace Diner,no
+7500,9000,1.0,bichanakandi,dhaka,january,Grand Hill,no,Palace Food Court,no
+3900,7000,1.0,bichanakandi,panchagarh ,september,bichanakandi resort,no,panshi restaurant,no
+5000,6100,2.0,bichanakandi, gazipur ,november,Grand Hill,no,Palace Diner,yes
+2000,6700,1.0,bandarban,sylhet,april,chimbuk hill resort,no,hill's dine,yes
+2000,3100,1.0,sitakunda eco park, teknaf,august,(nearby in chattogram) radisson blu chattogram bay view,yes,zafran restaurant,no
+1500,2400,1.0,mahasthangarh,noakhali ,january,Palace Hill,yes,casuarina,yes
+7500,8000,1.0,saint martins island,sirajganj ,january,dream night resort,yes,flying fish & food restaurant,no
+3100,5800,2.5,rangamati,dhaka ,december,Hill Lodge,no,Family Cafe,yes
+3600,4900,3.5,kuakata,dhala,may,kuakata beach resort,no,sea palace restaurant,yes
+4300,5400,7.0,lawachara national park,dhaka ,july,Beach Palace,yes,Palace Diner,no
+1500,3300,2.0,sitakunda eco park,chittagong ,september,Hotel Hotel,yes,chui jhal beef restaurant,no
+1500,3400,1.0,paharpur buddhist vihara,joypurhat ,june,Hotel View,yes,Palace Cafe,no
+2400,3000,1.5,sitakunda eco park, dhaka ,september,Hotel Hotel,yes,Traditional Hotel and Restaurant,no
+2200,3000,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,Paradise Food Court,yes
+5200,7000,2.0,tanguar haor,dhaka,august, houseboats,yes,Paradise Food Court,no
+4800,6400,2.0,tanguar haor,dhaka,june, haor bilash cottage,yes,Traditional Diner,no
+2600,4400,10.0,lawachara national park,dinajpur ,december,lawachara resort,no,asian eco cafe & restaurant,yes
+2200,5600,2.5,rangamati,dhaka ,october,hotel green castle,no,peda ting ting restaurant,yes
+4700,5900,4.0,coxs bazar,"jatrabari,dhaka",november,deshpriya resort,yes,ocean paradise restaurant,yes
+5100,5700,4.0,rangamati,kishoreganj ,december,Beach International,yes,chang pang restaurant,yes
+2200,3000,1.0,ratargul swamp forest,campus ,august,Royal View,yes,Paradise Food Court,yes
+3600,7000,2.5,kuakata,joypurhat ,april,kuakata grand hotel & sea resort,yes,sea palace restaurant,yes
+1500,2600,1.0,paharpur buddhist vihara,dhaka ,june,Beach Palace,yes,Palace Cafe,yes
+1500,2600,1.0,mahasthangarh,sirajganj,june,Palace Hill,yes,Spice Restaurant,yes
+4900,6800,2.0,tanguar haor,dhaka,june, houseboats,yes,Taste Hotel and Restaurant,no
+5400,8000,1.5,bichanakandi,dhaka,january,Golden Inn,yes,saffron restaurant,no
+3100,4400,3.0,bandarban,savar ,march,hill resort,no,hill's dine,yes
+1500,3500,2.0,jaflong,dinajpur ,april,Sea View,yes,Golden Food Court,yes
+1500,2400,1.0,mahasthangarh,sirajganj,january,Palace Hill,yes,Spice Restaurant,yes
+2200,3100,1.0,ratargul swamp forest,"rajbari,dhaka",november,shah kamal hotel sylhet,yes,sinbad restaurant,yes
+2200,4400,4.0,rangamati,rajshahi ,april,Palace Resort,no,cafe mangal,no
+4000,5000,2.0,coxs bazar, dhaka ,january,shahi hotel,no,sea crown restaurant,yes
+1500,3400,1.0,mahasthangarh,sirajganj,april,Palace Hill,yes,Taste Kabab House,yes
+4000,5600,2.0,rangamati,bandorban ,january,Palace Resort,no,Taste Food Court,no
+5200,10000,10.0,lawachara national park,dhaka ,march,lawachara resort,yes,Spice Kabab House,no
+5800,7500,1.5,rangamati,dhaka ,march,Beach International,yes,peda ting ting restaurant,no
+1500,2600,1.0,paharpur buddhist vihara,dhaka,december,Beach Palace,no,hotel al-razzaque & restaurant,no
+5600,10000,1.5,bichanakandi,kishoreganj ,september,Golden Inn,no,Palace Diner,no
+1500,5800,2.0,sajek valley,barishal,april,jumghor eco resort,no,fudanki restaurant,no
+5700,7600,3.0,sajek valley, teknaf,september,sajek valley resort,no,the taste of sajek restaurant,no
+1500,2800,1.0,paharpur buddhist vihara,dhaka,february,Hotel View,no,midas restaurant,yes
+6700,8700,9.5,lawachara national park,narayanganj ,december,lawachara resort,yes,kutum bari restaurant,no
+5300,6600,2.5,bichanakandi,cumilla ,september,Grand Hill,no,panshi restaurant,no
+2400,4800,4.0,bandarban,panchagarh ,august, milonchhori eco resort,yes,green prairie restaurant,no
+5100,7000,3.0,coxs bazar,thakurgaon,may,shahi hotel,no,,no
+2200,4100,1.5,sitakunda eco park,chittagong ,september,Hotel Hotel,yes,rajbari restaurant,no
+1500,3100,1.0,mahasthangarh, gazipur ,january,Resort International,yes,Taste Kabab House,yes
+1500,6300,3.5,sajek valley,home,september,sajek tourist complex,yes,Royal Restaurant,yes
+5100,5900,2.0,coxs bazar,chittagong ,june,prime park hotel,yes,kasturi restaurant,yes
+6000,7100,4.5,sajek valley,thakurgaon,december,Palace Hill,no,Spice Kabab House,no
+6300,8400,3.0,bichanakandi,dhaka,september,Golden Inn,yes,Paradise Restaurant,no
+4500,5400,2.0,tanguar haor,brahmanbaria ,june, haor bilash cottage,yes,Traditional Diner,no
+6800,7500,8.0,saint martins island,sirajganj ,march,hotel prince heaven,yes,Paradise Diner,yes
+3900,6900,9.5,lawachara national park,chittagong,may,lawachara resort,yes,Spice Kabab House,yes
+4800,5400,2.0,tanguar haor,dhaka,june, haor bilash cottage,yes,kichukkhon,no
+3600,5400,2.0,rangamati,gazipur ,august,Palace Resort,no,chang pang restaurant,no
+6600,7200,1.0,saint martins island,faridpur ,october,coral view resort,yes,narikel jinjira restaurant,no
+5600,6900,4.5,coxs bazar,chittagong,april,sea pearl beach resort,yes,bay marine beach resort restaurant,yes
+6200,7000,9.5,saint martins island,cox's bazar,september,dream night resort,yes,st. martin village restaurant,yes
+5000,7000,1.0,jaflong,comilla ,november, jaflong inn,yes,pach_bhai restaurant,yes
+2700,3500,3.0,jaflong,dinajpur ,september,hotel noorjahan grand,yes,panshi restaurant,yes
+1500,3200,1.0,sitakunda eco park,gazipur ,august,(nearby in chattogram) radisson blu chattogram bay view,yes,zafran restaurant,no
+3100,6900,2.0,sajek valley,rajshahi ,april,sajek valley resort,yes,Spice Kabab House,yes
+1500,3100,1.0,paharpur buddhist vihara, gazipur ,june,Hotel View,yes,hotel al-razzaque & restaurant,yes
+2200,3100,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,sinbad restaurant,yes
+1500,3000,1.0,mahasthangarh,sirajganj,april,momo inn,yes,Traditional Hotel and Restaurant,yes
+7500,9900,2.5,coxs bazar,savar ,september,seagull hotel,yes,,yes
+1500,2500,1.0,panam city sonargaon,dhaka,july,Royal Resort,yes,Taste Cafe,yes
+7500,8800,4.0,coxs bazar,dhaka,may,hotel esha international,yes,poushee hotel and restaurant,yes
+2200,3900,1.5,rangamati,barishal ,september, parjatan holiday complex,yes,chang pang restaurant,yes
+1500,2200,1.0,mahasthangarh,sirajganj,may,momo inn,yes,casuarina,yes
+1500,5000,2.0,kuakata,dinajpur ,june,hotel sea orchid,yes,rajdhani hotel & restaurant,yes
+2200,3600,1.0,ratargul swamp forest,campus ,november,Resort Hill,yes,Paradise Food Court,yes
+4400,6700,7.0,bandarban,sirajganj,december,Resort Inn,yes,green prairie restaurant,yes
+1500,2100,1.0,panam city sonargaon,sirajganj,july, (nearby in narayanganj/dhaka) pan pacific sonargaon,yes,Paradise Diner,no
+4500,10000,5.5,saint martins island,cox's bazar,april, coral view resort,yes,st. martin village restaurant,no
+2200,3300,2.5,kuakata,faridpur,july,hotel grand safa inn,yes,Palace Diner,yes
+4500,6100,1.0,bichanakandi,joypurhat ,november,Grand Hill,yes,Palace Diner,no
+5200,8400,2.5,bichanakandi,faridpur ,april,bichanakandi resort,yes,Palace Food Court,no
+7500,8200,6.0,lawachara national park,dhaka ,december,grand sultan tea resort & golf,yes,Palace Diner,yes
+2700,7400,2.0,sajek valley,faridpur,november, meghpunji resort,yes,sajek chilikotha restaurant,no
+4200,8500,3.5,sajek valley,savar,august, ruilui resort,yes,fudanki restaurant,yes
+2400,4500,3.5,coxs bazar,gazipur,november,cox's bazar hotel & convention centre,yes,sea crown restaurant,yes
+2200,3800,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+3000,4600,2.0,sitakunda eco park,dhaka,august, radisson blu chattogram bay view,yes,Traditional Hotel and Restaurant,yes
+3600,5400,5.5,kuakata,savar,october,blue ocean hotel & resort,yes,sea palace restaurant,yes
+2200,3300,1.0,sitakunda eco park,chittagong ,january, radisson blu chattogram bay view,yes,zafran restaurant,no
+1500,3000,1.0,panam city sonargaon,dhaka ,december, (nearby in narayanganj/dhaka) pan pacific sonargaon,yes,Taste Cafe,no
+4700,10000,1.0,bichanakandi,dhaka,september,Golden Inn,yes,Traditional Food Court,yes
+2500,8300,4.0,sajek valley,dhaka,december,Palace Hill,yes,Royal Cafe,yes
+4900,5600,8.0,lawachara national park,dhaka ,november,Hill View,yes,Spice Kabab House,no
+6300,6900,2.0,saint martins island,sirajganj ,march,Royal Hill,yes,st. martin village restaurant,yes
+3100,7400,7.5,lawachara national park,jashore ,november,grand sultan tea resort & golf,no,asian eco cafe & restaurant,yes
+1500,3400,1.0,paharpur buddhist vihara,gazipur,june,Beach Palace,yes,Spice Hotel and Restaurant,no
+2200,3400,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,sinbad restaurant,yes
+1500,2400,1.0,mahasthangarh,brahmanbaria,november,Palace Hill,yes,casuarina,yes
+7500,8300,5.0,lawachara national park,dhaka ,november,lawachara resort,yes,kutum bari restaurant,no
+4100,5200,2.0,sajek valley,"jatrabari,dhaka",september,ruilui resort,yes,the taste of sajek restaurant,no
+1500,3300,1.0,panam city sonargaon,dhaka,july,Hill Resort,yes,sonargaon restaurant,no
+3600,7100,4.0,bandarban,chittagong,january,Grand Resort,no,hill view restaurant,yes
+5800,7800,5.0,coxs bazar,ashulia ,february,the zabeer hotel,yes,kasturi restaurant,yes
+3800,7000,2.0,tanguar haor,dhala,march,Palace Palace,yes,Paradise Food Court,no
+2500,4500,4.0,kuakata,tangail,july,hotel sea orchid,yes,Golden Restaurant,no
+6100,7600,7.5,lawachara national park,bandorban ,december,grand sultan tea resort & golf,yes,Spice Kabab House,no
+1700,8900,1.0,saint martins island,narsingdi ,september,coral view resort,yes,st. martin village restaurant,yes
+1500,2900,1.0,paharpur buddhist vihara,dhaka,february,Beach Palace,no,midas restaurant,yes
+3100,5800,3.0,coxs bazar,sylhet ,september,beach hotel,no,palongki inani,yes
+5700,6800,4.0,saint martins island,pabna,january,coral view resort,no,Traditional Cafe,no
+4800,6100,5.0,bandarban,brahmanbaria,april,hill resort,yes,chimbuk hill restaurant,yes
+3800,7000,2.0,tanguar haor,dhaka,march,Palace Palace,yes,Paradise Food Court,no
+2200,3100,1.0,ratargul swamp forest,brahmanbaria,november,Green Inn,yes,Sea Food Court,yes
+2500,6800,2.0,jaflong,dinajpur ,january, jaflong inn,yes,pach bhai restaurant,yes
+1900,2900,5.0,sajek valley,sirajganj ,july,jumghor eco resort,no,maruti didi restaurant,yes
+4900,10000,1.0,saint martins island,gazipur,october, coral view resort,yes,Traditional Cafe,yes
+2600,3600,3.5,jaflong,narsingdi ,may, jaflong inn,yes,Golden Food Court,yes
+2200,3000,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+4700,7700,4.0,sajek valley,gazipur ,november, meghpunji resort,yes,fudanki restaurant,yes
+3200,4200,2.5,coxs bazar,sirajganj ,february,sea view hotel,yes,Golden Food Court,yes
+7500,10000,8.5,lawachara national park,dhaka ,december,grand sultan tea resort & golf,no,kutum bari restaurant,no
+4600,6400,2.0,sajek valley,thakurgaon,september,jumghor eco resort,yes,Spice Food Court,no
+4700,5900,1.5,bandarban,dhaka ,october,nilgiri resort,yes,Taste Restaurant,no
+7500,8100,10.0,lawachara national park,dhaka ,december,grand sultan tea resort & golf,yes,kutum bari restaurant,no
+2200,3900,1.0,ratargul swamp forest,dinajpur ,february,Resort Hill,yes,Sea Food Court,yes
+5000,6700,2.5,kuakata,khulna ,july,kuakata holiday inn,no,banorupa garden restaurant,yes
+1500,3000,1.0,paharpur buddhist vihara,dhaka,december,Hotel View,no,Spice Hotel and Restaurant,yes
+2100,2900,3.5,jaflong,dhaka,december,hotel noorjahan grand (sylhet),yes,Golden Food Court,yes
+7500,9000,2.0,sajek valley, barishal,march, a-frame cottage sajek,no,sajek kutumbari restaurant,yes
+5800,7600,3.0,rangamati,laxmipur,may,parjatan holiday complex,yes,cafe mangal,no
+1500,2400,1.0,paharpur buddhist vihara,joypurhat ,february,Hotel View,no,Spice Hotel and Restaurant,no
+1500,3000,1.0,panam city sonargaon,dhaka,july, (nearby in narayanganj/dhaka) pan pacific sonargaon,no,sonargaon restauran,no
+2200,3000,1.0,ratargul swamp forest,campus ,february,Royal View,yes,Sea Food Court,yes
+3000,5400,1.5,kuakata,tangail,november,Green Palace,yes,Golden Hotel and Restaurant,yes
+5200,6000,2.0,tanguar haor,cumilla ,april,Hill Hill,yes,kichukkhon,no
+2200,3000,1.0,ratargul swamp forest,campus ,july,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+1500,2200,1.0,paharpur buddhist vihara, chattogram ,june,Beach Palace,no,Palace Cafe,yes
+3100,4600,2.5,kuakata,faridpur,september,Green Palace,yes,kuakata hotel & restaurant,yes
+1700,2900,2.0,sitakunda eco park,chittagong ,october," the peninsula chittagong, hotel agrabad",yes,Family Restaurant,no
+3500,4800,1.0,rangamati,laxmipur,september,Beach International,no,cafe mangal,yes
+4300,9000,3.5,bandarban,chittagong,august,hotel green hill,yes,kalapata restaurant,no
+2200,3900,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Sea Food Court,yes
+2500,5800,3.0,sajek valley,chittagong ,april,sajek tourist complex,yes,Spice Kabab House,yes
+4900,8000,3.5,sajek valley,pabna,september,sajek tourist complex,yes,fudanki restaurant,yes
+1500,8400,4.5,sajek valley,cox's bazar,january,sajek tourist complex,yes,eni lushai cottage & restaurant,yes
+4400,6700,2.0,tanguar haor,dhaka,august,Palace Palace,yes,Traditional Diner,no
+5200,6900,1.0,saint martins island,cox's bazar,august,Palace Hill,yes,Traditional Cafe,no
+2500,4400,1.5,coxs bazar, barishal,september,the zabeer hotel,yes,narikel jinjira restaurant,no
+2900,4700,1.0,kuakata,barishal,july,Golden View,yes,Palace Kabab House,yes
+4300,5700,2.0,tanguar haor,dhaka,august,Palace Palace,yes,Paradise Food Court,no
+4100,8000,1.5,coxs bazar,thakurgaon,december,green house resort,yes,narikel jinjira restaurant,yes
+1500,2700,1.0,mahasthangarh,sirajganj,february,Resort International,yes,Traditional Hotel and Restaurant,yes
+2200,3100,1.0,ratargul swamp forest,cumilla,november,Royal View,yes,Paradise Food Court,yes
+1500,3300,1.0,paharpur buddhist vihara,dhaka,june,Hotel View,yes,Spice Hotel and Restaurant,no
+2500,3300,1.5,jaflong,dinajpur ,july,jaflong green resort,yes,pach_bhai restaurant,yes
+2200,5600,3.0,sajek valley,savar,july,jumghor eco resort,yes,Spice Food Court,yes
+6100,7600,3.0,kuakata,cumilla,october,kuakata holiday inn,no,rajdhani hotel & restaurant,yes
+3300,10000,4.5,sajek valley,chittagong ,september, meghpunji resort,yes,chhimbal restaurant,yes
+1800,7300,3.5,coxs bazar,thakurgaon,december,cox's bazar hotel & convention centre,yes,handi,no
+1500,4400,2.0,kuakata,barisal,december,kuakata beach resort,yes,Palace Kabab House,no
+1500,3400,1.0,paharpur buddhist vihara,dhaka,june,hotel touch & go,no,hotel al-razzaque & restaurant,yes
+3400,6500,3.5,sajek valley,chittagong ,december,jumghor eco resort,no,fudanki restaurant,yes
+1500,3400,1.0,panam city sonargaon,dhaka ,july,Hill Resort,no,sonargaon restaurant,yes
+4300,5900,3.0,bandarban, gazipur ,october,nafakhum resort,yes,tajingdong restora,no
+1500,3500,1.0,mahasthangarh,sirajganj,september,Palace Hill,yes,casuarina,yes
+6200,7800,2.5,bichanakandi,dhaka,june,Golden Inn,yes,panshi restaurant,no
+1500,2900,4.0,jaflong,thakurgaon,july,hotel noorjahan grand,yes,sinbad restaurant,yes
+1900,3000,2.0,sitakunda eco park,cumilla ,august,sitakunda eco resort,yes,zafran restaurant,no
+5600,7300,2.0,rangamati,dinajpur ,september,Palace Resort,yes,cafe mangal,no
+2200,4200,1.0,ratargul swamp forest,savar ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+1500,3500,1.0,paharpur buddhist vihara,dhaka,february,hotel touch & go,yes,Spice Hotel and Restaurant,no
+7500,8800,1.0,bichanakandi,kishoreganj ,november,bichanakandi resort,yes,saffron restaurant,no
+5200,7000,3.0,sajek valley,dhaka,march,jumghor eco resort,yes,chhimbal restaurant,yes
+2200,3200,1.0,ratargul swamp forest,pabna,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+3300,4800,2.0,sajek valley,bike ,february, ruilui resort,no,sajek chilikotha restaurant,yes
+7500,10000,10.0,lawachara national park,satkhira ,november,grand sultan tea resort & golf,yes,Spice Kabab House,no
+2200,4200,10.5,saint martins island,dhaka ,march,coral view resort,no,flying fish & food restaurant,yes
+3700,4400,2.5,kuakata, barishal,january,sikder resort & villas,no,hotel nibedita & restaurant,yes
+1500,2900,1.0,mahasthangarh,sirajganj,november,Grand Resort,yes,Taste Kabab House,yes
+1500,3600,8.5,lawachara national park,kushtia,november,grand sultan tea resort & golf,no,Spice Kabab House,no
+5800,6300,2.0,sajek valley,campus ,august,jumghor eco resort,no,eni lushai cottage & restaurant,no
+5400,10000,3.5,coxs bazar,savar ,july,seagull hotel,yes,handi,yes
+1500,2100,1.0,panam city sonargaon,ashulia ,july,Royal Resort,no,pan pacific sonargaon dhaka,no
+1500,2200,1.0,panam city sonargaon,dinajpur ,december,Hill Garden,no,pan pacific sonargaon dhaka,yes
+1500,4000,5.0,bandarban,panchagarh ,march,Grand Resort,yes,Taste Restaurant,no
+3000,6200,3.0,kuakata,barisal,october,sikder resort & villas,yes,banorupa garden restaurant,yes
+6200,7800,3.0,bandarban,cumilla ,january,hotel green hill,yes,Royal Restaurant,no
+7200,9100,7.5,saint martins island,chittagong ,september, hotel blue pearl,yes,flying fish & food restaurant,no
+1500,3300,1.0,panam city sonargaon,dhaka ,july,Grand Hill,no,Taste Cafe,no
+6200,8400,9.5,lawachara national park,dhaka ,may,grand sultan tea resort & golf,yes,asian eco cafe & restaurant,yes
+4000,6600,3.0,kuakata,"rajbari,dhaka",november,hotel sea coral,yes,rajdhani hotel & restaurant,yes
+7300,9200,4.0,sajek valley,dhaka,january, meghpunji resort,no,Spice Food Court,no
+2500,7400,1.0,bichanakandi,kishoreganj ,june,Grand Hill,yes,Palace Diner,no
+4300,7300,8.5,lawachara national park,dhaka ,february,grand sultan tea resort & golf,no,kutum bari restaurant,no
+1500,3400,1.0,panam city sonargaon,cox's bazar,december,Hill Resort,yes,sonargaon restauran,yes
+2300,4100,1.5,sitakunda eco park,dhaka,august,sitakunda eco resort,yes,rajbari restaurant,no
+6500,8000,1.0,saint martins island,chottogram,february,nil digonte resort,yes,jol torongo restora,no
+4700,7500,1.0,coxs bazar,"jatrabari,dhaka",june,deshpriya resort,no,kashbon restaurant,yes
+1500,3300,1.0,panam city sonargaon,dhaka ,july,sonargaon hotel & resort,no,sonargaon restaurant,no
+3200,4500,7.5,saint martins island,comilla ,october, hotel blue pearl,yes,hasan restaurant,no
+4000,9500,9.0,lawachara national park,cumilla,november,Hill View,yes,Palace Diner,no
+5000,6400,2.0,tanguar haor,dhaka,august,Hill Hill,yes,Paradise Food Court,no
+5000,6800,1.0,bichanakandi,chottogram,december,bichanakandi resort,yes,Palace Diner,yes
+2200,4700,2.0,bichanakandi,dhaka,november,bichanakandi resort,yes,panshi restaurant,no
+3800,6100,4.5,kuakata,sirajganj ,june,hotel sea paradise,yes,rajdhani hotel & restaurant,yes
+4200,6600,2.0,tanguar haor,brahmanbaria ,august, haor bilash cottage,yes,kichukkhon,no
+4900,5700,4.5,jaflong,dinajpur ,july,jaflong tourist lodge,yes,pach bhai restaurant,yes
+1500,5800,3.0,jaflong,brahmanbaria ,february, jaflong green resort,yes,jaflong view restaurant,yes
+3100,6700,3.5,jaflong,narayanganj ,october,jaflong tourist lodge,no,panshi restaurant,yes
+7500,10000,2.5,sajek valley,thakurgaon,november,jumghor eco resort,no,maruti didi restaurant,no
+1500,3300,1.0,mahasthangarh,sirajganj,september,Palace Hill,yes,Spice Restaurant,yes
+1800,2900,1.5,sitakunda eco park,chittagong ,september," the peninsula chittagong, hotel agrabad",yes,rajbari restaurant,yes
+1500,2400,1.0,panam city sonargaon,khulna ,september, (nearby in narayanganj/dhaka) pan pacific sonargaon,yes,Taste Cafe,no
+3100,8700,12.0,saint martins island,faridpur ,february,saint martins island resort,yes,flying fish & food restaurant,no
+2200,6700,3.0,rangamati,gazipur ,january, parjatan holiday complex,yes,chang pang restaurant,yes
+2400,6700,4.0,rangamati,joypurhat ,april,cloudy lake resort,no,cafe mangal,yes
+6800,7300,8.0,lawachara national park,dhaka ,may,lawachara resort,yes,Palace Diner,no
+4200,5500,2.0,tanguar haor,dhaka,august,Palace Palace,yes,rose garden restaurant,no
+5400,7800,6.0,saint martins island,barisal,october,hotel blue pearl,no,jol torongo restora,no
+2100,5200,10.0,saint martins island, chattogram ,december,nil digonte resort,yes,Paradise Diner,yes
+2200,3300,1.0,ratargul swamp forest,campus ,july,Royal View,yes,Sea Food Court,yes
+2400,4200,1.5,sitakunda eco park,chittagong ,september,sitakunda eco resort,yes,rajbari restaurant,no
+7400,8400,5.0,lawachara national park,barishal ,november,lawachara resort,yes,asian eco cafe & restaurant,yes
+5300,6400,6.0,lawachara national park,dhaka ,december,Hill View,no,Spice Kabab House,no
+5500,6800,3.5,rangamati,rajshahi ,april,Hill Lodge,yes,gang sabarang,yes
+3800,4600,4.0,bandarban,faridpur,march,sairu hill resort,yes,Royal Restaurant,yes
+2200,8200,1.5,rangamati,rajshahi ,november,cloudy lake resort,no,chang pang restaurant,no
+5200,6400,2.0,tanguar haor,brahmanbaria ,june,Palace Palace,yes,Traditional Diner,no
+3800,7000,2.0,tanguar haor,brahmanbaria ,june, houseboats,yes,Taste Hotel and Restaurant,no
+1500,2700,1.0,panam city sonargaon,tangail,july,Hill Resort,no,sonargaon restauran,yes
+3800,6700,2.0,tanguar haor,dhaka,august,Hill Hill,yes,Traditional Diner,no
+2500,5800,4.0,jaflong,sylhet,june,jaflong tourist lodge,yes,pach bhai restaurant,yes
+2300,2800,1.5,sitakunda eco park,rajshahi ,september,sitakunda eco resort,yes,Family Restaurant,no
+6100,7400,7.5,lawachara national park,dhaka ,november,Beach Palace,yes,Spice Kabab House,no
+2200,4200,1.0,ratargul swamp forest,campus ,april,shah kamal hotel sylhet,yes,Sea Food Court,yes
+2400,7900,2.5,sajek valley,pabna,february,sajek valley resort,yes,eni lushai cottage & restaurant,no
+4900,6700,1.5,bichanakandi,kishoreganj ,september,Golden Inn,yes,panshi restaurant,no
+1500,2500,1.0,paharpur buddhist vihara, gazipur ,march,Hotel View,no,hotel al-razzaque & restaurant,yes
+7500,8200,1.0,saint martins island,kishoreganj ,december,hotel blue pearl,yes,flying fish & food restaurant,yes
+5000,5500,3.0,rangamati,dhaka,march,Palace Resort,yes,cafe mangal,no
+1500,3300,1.0,panam city sonargaon,dhaka ,july,Hill Resort,no,Palace Hotel and Restaurant,no
+5200,6000,2.0,tanguar haor,brahmanbaria ,november, houseboats,yes,Taste Hotel and Restaurant,no
+4400,8500,3.0,coxs bazar,narayanganj ,may,hotel highgarden,yes,kasturi restaurant,yes
+5200,7000,2.0,tanguar haor,narsingdi ,august, haor bilash cottage,yes,kichukkhon,no
+7500,8200,1.0,bichanakandi,dhaka,november,Grand Hill,no,Palace Food Court,no
+2200,3000,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Sea Food Court,yes
+1600,2100,2.0,sitakunda eco park,dhaka,august,Hotel Hotel,yes,Traditional Hotel and Restaurant,yes
+4400,5900,2.0,tanguar haor,brahmanbaria ,august, houseboats,yes,Traditional Diner,no
+1500,2400,1.0,paharpur buddhist vihara,joypurhat ,june,Hotel View,yes,Spice Hotel and Restaurant,no
+2200,3000,1.0,ratargul swamp forest,campus ,november,Green Inn,yes,Sea Food Court,yes
+1500,5100,4.0,jaflong,dinajpur ,july,jaflong green resort,no,Golden Food Court,yes
+2200,3500,1.0,ratargul swamp forest,campus ,november,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+1800,2900,5.0,jaflong,sylhet ,november,hotel noorjahan grand,yes,pach bhai restaurant,yes
+1500,7000,5.0,kuakata,dhaka ,october,hotel sea queen resort,yes,Palace Kabab House,yes
+6300,7300,10.5,saint martins island,bandorban ,april,Palace Hill,no,jol torongo restora,yes
+1500,5600,5.0,lawachara national park,dhaka ,december,Hill View,yes,kutum bari restaurant,yes
+2000,2500,1.5,sitakunda eco park,chittagong ,august,sitakunda eco resort,yes,chui jhal beef restaurant,no
+3200,5000,3.5,kuakata,sirajganj ,april,hotel grand safa inn,yes,Golden Restaurant,no
+5200,6600,2.0,tanguar haor, gazipur ,june, houseboats,yes,kichukkhon,no
+4700,7000,2.0,tanguar haor,kishoreganj ,august,Palace Palace,yes,Paradise Food Court,no
+4400,6100,5.0,coxs bazar,dhaka,march,hotel pashur,yes,sea lamp beach cafe,yes
+4200,5400,4.5,bandarban,panchagarh ,december,nilgiri resort,no,green prairie restaurant,no
+2200,4100,1.0,ratargul swamp forest,campus ,november,Royal View,yes,sinbad restaurant,yes
+1500,2400,1.0,mahasthangarh,sirajganj,january,momo inn,yes,Spice Restaurant,yes
+2300,3000,3.0,bichanakandi,dhaka,november,bichanakandi resort,yes,Palace Food Court,no
+4500,6300,2.0,bichanakandi,barishal,november,bichanakandi resort,yes,saffron restaurant,no
+2200,3300,1.0,ratargul swamp forest,cumilla ,november,Green Inn,yes,Paradise Food Court,yes
+2200,3400,1.0,ratargul swamp forest,joypurhat ,january,shah kamal hotel sylhet,yes,Paradise Food Court,yes
+4300,6300,2.0,tanguar haor,dhaka,june,Palace Palace,yes,Palace Diner,no
+6000,8300,6.0,saint martins island,rajshahi ,april,blue marine resort,yes,Paradise Diner,yes
+3000,7000,2.0,coxs bazar,dhaka ,january,bangladesh parjatan corporation motel,yes,sea lamp beach cafe,yes
